@@ -1,0 +1,815 @@
+[
+  {
+    "slug": "crypto-crash-course",
+    "series": "crash-course",
+    "kind": "book",
+    "role": "core",
+    "order": 1,
+    "title": "Your Crypto Crash Course",
+    "subtitle": "Fast-Tracking The Journey into Bitcoin, Blockchain, and Beyond",
+    "description": "Discover how Bitcoin works, why blockchain is revolutionizing industries, and how you can get started in crypto safely.",
+    "longDescription": "A beginner-friendly deep dive into Bitcoin, blockchain, Web3, and beyond. Learn how to navigate the crypto space with confidence.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "crash-course/digital/crypto-crash-course.jpg",
+    "coverAudio": "crash-course/audio/crypto-crash-course.jpg",
+    "relatedSlugs": [
+      "crypto-creations",
+      "web-3-wonders"
+    ],
+    "formats": [
+      "kindle",
+      "print",
+      "audible"
+    ],
+    "audioSample": "/audio/crypto-crash-course-sample.mp3",
+    "asin": "B0DKB6C424"
+  },
+  {
+    "slug": "crypto-creations",
+    "series": "crash-course",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 2,
+    "title": "Crypto Creations",
+    "subtitle": "How Smart Contracts, NFTs, and DeFi Are Shaping the Future",
+    "description": "Explore how blockchain is creating new opportunities in art, finance, and business.",
+    "longDescription": "Learn how smart contracts, NFTs, and decentralized finance (DeFi) are transforming industries. This book simplifies complex Web3 concepts for beginners.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "crash-course/digital/crypto-creations.jpg",
+    "coverAudio": "crash-course/audio/crypto-creations.jpg",
+    "relatedSlugs": [
+      "crypto-crash-course",
+      "crypto-confidence"
+    ],
+    "formats": [
+      "kindle",
+      "print",
+      "audible"
+    ],
+    "audioSample": "/audio/crypto-creations-sample.mp3",
+    "asin": "B0DF65BLVY"
+  },
+  {
+    "slug": "web-3-wonders",
+    "series": "crash-course",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 3,
+    "title": "Web 3.0 Wonders",
+    "subtitle": "Your Guide to Unpacking DAOs, Decentralization, and the Metaverse",
+    "description": "A must-read for those curious about the future of the internet and digital ownership.",
+    "longDescription": "Discover the rise of decentralized autonomous organizations (DAOs), the Metaverse, and the broader implications of Web3.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "crash-course/digital/web-3-wonders.jpg",
+    "coverAudio": "crash-course/audio/web-3-wonders.jpg",
+    "relatedSlugs": [
+      "crypto-creations",
+      "crypto-confidence"
+    ],
+    "formats": [
+      "kindle",
+      "print",
+      "audible"
+    ],
+    "audioSample": "/audio/web-3-wonders-sample.mp3",
+    "asin": "B0DKFCGHMD"
+  },
+  {
+    "slug": "crypto-confidence",
+    "series": "crash-course",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 4,
+    "title": "Crypto Confidence",
+    "subtitle": "A Beginner’s Blueprint to Protecting Your Digital Assets",
+    "description": "Master essential security principles and gain confidence in the crypto space.",
+    "longDescription": "Security is key in the world of crypto. This book helps beginners protect their digital wealth from scams, hacks, and risks.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "crash-course/digital/crypto-confidence.jpg",
+    "coverAudio": "crash-course/audio/crypto-confidence.jpg",
+    "relatedSlugs": [
+      "web-3-wonders",
+      "cryptos-carbon-conundrum"
+    ],
+    "formats": [
+      "kindle",
+      "print",
+      "audible"
+    ],
+    "audioSample": "/audio/crypto-confidence-sample.mp3",
+    "asin": "B0DKFFW3ZN"
+  },
+  {
+    "slug": "cryptos-carbon-conundrum",
+    "series": "crash-course",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 5,
+    "title": "Crypto’s Carbon Conundrum",
+    "subtitle": "Blockchain’s Battle with the Environment",
+    "description": "Understand the environmental impact of crypto and the solutions being developed.",
+    "longDescription": "Crypto’s energy consumption is controversial. This book explores how blockchain technology is evolving to become more sustainable.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "crash-course/digital/cryptos-carbon-conundrum.jpg",
+    "coverAudio": "crash-course/audio/cryptos-carbon-conundrum.jpg",
+    "relatedSlugs": [
+      "crypto-crash-course-bundle",
+      "crypto-confidence"
+    ],
+    "formats": [
+      "kindle",
+      "print",
+      "audible"
+    ],
+    "audioSample": "/audio/cryptos-carbon-conundrum-sample.mp3",
+    "asin": "B0DJWK78GB"
+  },
+  {
+    "slug": "future-proof-your-tech-career",
+    "series": "crash-course",
+    "kind": "bonus",
+    "role": "supplementary",
+    "order": 6,
+    "title": "Future-Proof Your Tech Career",
+    "subtitle": "Skills for Success in Blockchain and Web3",
+    "description": "Take the leap—prepare your career for the Web3 era today!",
+    "longDescription": "Ready to pivot into a Web3 career? Read this guide to upskill and join the revolution!",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "crash-course/digital/future-proof-your-tech-career.jpg",
+    "coverAudio": "crash-course/digital/future-proof-your-tech-career.jpg",
+    "relatedSlugs": [
+      "crypto-crash-course-bundle",
+      "web-3-wonders"
+    ],
+    "formats": [
+      "kindle",
+      "print"
+    ],
+    "asin": "B0DLHT41WQ"
+  },
+  {
+    "slug": "crypto-crash-course-bundle",
+    "series": "crash-course",
+    "kind": "collection",
+    "collectionSlugs": [
+      "crypto-crash-course",
+      "crypto-creations",
+      "web-3-wonders",
+      "crypto-confidence",
+      "cryptos-carbon-conundrum"
+    ],
+    "order": 7,
+    "title": "Your Crypto Crash Course – The Full Collection",
+    "subtitle": "All 5 Books in One Bundle",
+    "description": "Dive into the exciting world of cryptocurrency — from Bitcoin basics to advanced blockchain applications, all in one collection.",
+    "longDescription": "Whether you're a beginner looking to understand Bitcoin or someone eager to explore advanced blockchain applications, this comprehensive collection has you covered. Each book offers clear explanations, real-world examples, and actionable insights designed to help you master cryptocurrency and blockchain technology.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "crash-course/digital/crypto-crash-course-bundle.jpg",
+    "coverAudio": "crash-course/audio/crypto-crash-course-bundle.jpg",
+    "relatedSlugs": [
+      "crypto-creations",
+      "crypto-confidence"
+    ],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/crypto-crash-course-bundle-sample.mp3",
+    "asin": "B0DL3RT4N5"
+  },
+  {
+    "slug": "crypto-wallets-unlocked",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-1",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 1,
+    "title": "Crypto Wallets Unlocked",
+    "subtitle": "Secure Your Wealth Now",
+    "description": "Discover how to protect your digital assets from hacks and fraud.",
+    "longDescription": "Your essential guide to securing, storing, and managing cryptocurrencies safely. Learn about hardware, software, and multi-signature wallets.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/crypto-wallets-unlocked.jpg",
+    "coverAudio": "instant-crypto/audio/crypto-wallets-unlocked.jpg",
+    "relatedSlugs": [
+      "nft-know-how",
+      "gas-fee-hacks",
+      "unbreakable-crypto",
+      "instant-crypto-bundle"
+    ],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/crypto-wallets-unlocked-sample.mp3",
+    "asin": "B0DM6QHHWN"
+  },
+  {
+    "slug": "nft-know-how",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-1",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 2,
+    "title": "NFT Know-How",
+    "subtitle": "Start Buying, Selling, and Profiting Today",
+    "description": "Master the world of NFTs and digital ownership.",
+    "longDescription": "A crash course in NFTs—how they work, where to buy them, and strategies to profit from digital collectibles.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/nft-know-how.jpg",
+    "coverAudio": "instant-crypto/audio/nft-know-how.jpg",
+    "relatedSlugs": [
+      "crypto-wallets-unlocked",
+      "staking-for-cash",
+      "dao-empowerment",
+      "instant-crypto-bundle"
+    ],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/nft-know-how-sample.mp3",
+    "asin": "B0DM6QVNPF"
+  },
+  {
+    "slug": "yield-farming-fast-track",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-1",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 3,
+    "title": "Yield Farming Fast-Track",
+    "subtitle": "Maximizing Returns with Minimal Effort",
+    "description": "Discover passive income strategies in decentralized finance.",
+    "longDescription": "Learn how to earn high returns on your crypto holdings through DeFi yield farming, staking, and liquidity pools.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/yield-farming-fast-track.jpg",
+    "coverAudio": "instant-crypto/audio/yield-farming-fast-track.jpg",
+    "relatedSlugs": [
+      "staking-for-cash",
+      "profit-from-every-token",
+      "multi-chain-money",
+      "instant-crypto-bundle"
+    ],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/yield-farming-fast-track-sample.mp3",
+    "asin": "B0DM6R74FQ"
+  },
+  {
+    "slug": "staking-for-cash",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-1",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 4,
+    "title": "Staking for Cash",
+    "subtitle": "Earn Passive Income with Crypto Instantly",
+    "description": "Start staking and earning rewards with minimal effort.",
+    "longDescription": "A beginner’s guide to staking cryptocurrencies to earn rewards without the need for active trading.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/staking-for-cash.jpg",
+    "coverAudio": "instant-crypto/audio/staking-for-cash.jpg",
+    "relatedSlugs": [
+      "yield-farming-fast-track",
+      "profit-from-every-token",
+      "gas-fee-hacks",
+      "instant-crypto-bundle"
+    ],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/staking-for-cash-sample.mp3",
+    "asin": "B0DM6PLZ9R"
+  },
+  {
+    "slug": "gas-fee-hacks",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-1",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 5,
+    "title": "Gas Fee Hacks",
+    "subtitle": "Keep More of Your Money in Every Transaction",
+    "description": "Cut your transaction costs with gas fee optimization hacks.",
+    "longDescription": "Reduce your gas fees when trading or transacting on Ethereum and other blockchain networks. Save money with expert tips and strategies.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/gas-fee-hacks.jpg",
+    "coverAudio": "instant-crypto/audio/gas-fee-hacks.jpg",
+    "relatedSlugs": [
+      "crypto-wallets-unlocked",
+      "staking-for-cash",
+      "multi-chain-money",
+      "instant-crypto-bundle"
+    ],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/gas-fee-hacks-sample.mp3",
+    "asin": "B0DM6PZ25R"
+  },
+  {
+    "slug": "profit-from-every-token",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-1",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 6,
+    "title": "Profit From Every Token",
+    "subtitle": "Analyze Supply, Demand, and Utility for Better Returns",
+    "description": "Understand how to evaluate and profit from crypto tokens.",
+    "longDescription": "A practical guide to evaluating cryptocurrencies based on tokenomics, supply, demand, and real-world use cases.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/profit-from-every-token.jpg",
+    "coverAudio": "instant-crypto/audio/profit-from-every-token.jpg",
+    "relatedSlugs": [
+      "yield-farming-fast-track",
+      "multi-chain-money",
+      "staking-for-cash",
+      "instant-crypto-bundle"
+    ],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/profit-from-every-token-sample.mp3",
+    "asin": "B0DM6RXKLT"
+  },
+  {
+    "slug": "dao-empowerment",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-1",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 7,
+    "title": "DAO Empowerment",
+    "subtitle": "Building Community Power in Decentralized Spaces",
+    "description": "Join the revolution of decentralized governance.",
+    "longDescription": "How DAOs (Decentralized Autonomous Organizations) are changing governance, business, and community-driven projects.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/dao-empowerment.jpg",
+    "coverAudio": "instant-crypto/audio/dao-empowerment.jpg",
+    "relatedSlugs": [
+      "nft-know-how",
+      "multi-chain-money",
+      "crypto-wallets-unlocked",
+      "instant-crypto-bundle"
+    ],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/dao-empowerment-sample.mp3",
+    "asin": "B0DM6WZ69K"
+  },
+  {
+    "slug": "multi-chain-money",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-1",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 8,
+    "title": "Multi-Chain Money",
+    "subtitle": "Bridge Blockchains and Boost Your Assets",
+    "description": "Break free from single-chain limitations.",
+    "longDescription": "Learn how to use cross-chain bridges, multi-chain wallets, and interoperability tools to maximize your crypto potential.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/multi-chain-money.jpg",
+    "coverAudio": "instant-crypto/audio/multi-chain-money.jpg",
+    "relatedSlugs": [
+      "dao-empowerment",
+      "yield-farming-fast-track",
+      "profit-from-every-token",
+      "instant-crypto-bundle"
+    ],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/multi-chain-money-sample.mp3",
+    "asin": "B0DM6NXNSG"
+  },
+  {
+    "slug": "unbreakable-crypto",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-1",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 9,
+    "title": "Unbreakable Crypto",
+    "subtitle": "Defend Your Digital Fortune Against Scams",
+    "description": "Fortify your crypto defenses against hackers and fraud.",
+    "longDescription": "A complete guide to crypto security, avoiding scams, and protecting your funds from cyber threats.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/unbreakable-crypto.jpg",
+    "coverAudio": "instant-crypto/audio/unbreakable-crypto.jpg",
+    "relatedSlugs": [
+      "crypto-wallets-unlocked",
+      "gas-fee-hacks",
+      "staking-for-cash",
+      "instant-crypto-bundle"
+    ],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/unbreakable-crypto-sample.mp3",
+    "asin": "B0DM6TVT41"
+  },
+  {
+    "slug": "crypto-market-mastery",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-1",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 10,
+    "title": "Crypto Market Mastery",
+    "subtitle": "Timing Your Moves with Metrics",
+    "description": "Master the art of strategic crypto market moves.",
+    "longDescription": "Understand market indicators, trading psychology, and strategic analysis to time your crypto investments for maximum gains.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/crypto-market-mastery.jpg",
+    "coverAudio": "instant-crypto/audio/crypto-market-mastery.jpg",
+    "relatedSlugs": [
+      "profit-from-every-token",
+      "multi-chain-money",
+      "unbreakable-crypto",
+      "instant-crypto-bundle"
+    ],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/crypto-market-mastery-sample.mp3",
+    "asin": "B0DM6P2FXT"
+  },
+  {
+    "slug": "cbdcs-demystified",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-1",
+    "kind": "bonus",
+    "role": "supplementary",
+    "order": 11,
+    "title": "CBDCs Demystified",
+    "subtitle": "Securing Your Future in Fintech’s Next Frontier",
+    "description": "Learn how CBDCs will shape the future of money and what they mean for your financial freedom.",
+    "longDescription": "A deep dive into Central Bank Digital Currencies (CBDCs), their impact on financial systems, privacy concerns, and how they differ from cryptocurrencies.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/cbdcs-demystified.jpg",
+    "coverAudio": "instant-crypto/digital/cbdcs-demystified.jpg",
+    "relatedSlugs": [
+      "crypto-market-mastery",
+      "profit-from-every-token",
+      "unbreakable-crypto",
+      "instant-crypto-bundle"
+    ],
+    "formats": [
+      "kindle"
+    ],
+    "asin": "B0DMW68SRP"
+  },
+  {
+    "slug": "instant-crypto-bundle",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-1",
+    "kind": "collection",
+    "collectionSlugs": [
+      "crypto-wallets-unlocked",
+      "nft-know-how",
+      "yield-farming-fast-track",
+      "staking-for-cash",
+      "gas-fee-hacks",
+      "profit-from-every-token",
+      "dao-empowerment",
+      "multi-chain-money",
+      "unbreakable-crypto",
+      "crypto-market-mastery"
+    ],
+    "order": 100,
+    "title": "Instant Crypto – The Full Collection",
+    "subtitle": "10 Quick-Read Guides to Crypto Mastery",
+    "description": "Discover the Complete Crypto Companion — master the digital economy with confidence.",
+    "longDescription": "The Instant Crypto Mini Guides boxset brings you 10 concise, expertly written books that make cryptocurrency accessible, actionable, and insightful for both beginners and seasoned enthusiasts. Each guide is meticulously designed to address a specific aspect of cryptocurrency, offering bite-sized insights that let you explore, invest, and secure your digital assets with ease.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/instant-crypto-bundle.jpg",
+    "coverAudio": "instant-crypto/audio/instant-crypto-bundle.jpg",
+    "relatedSlugs": [
+      "crypto-wallets-unlocked",
+      "nft-know-how",
+      "staking-for-cash",
+      "dao-empowerment"
+    ],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/instant-crypto-bundle-sample.mp3",
+    "asin": "B0DM6NT4VJ"
+  },
+  {
+    "slug": "bear-market-survival",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-2",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 11,
+    "title": "Bear Market Survival",
+    "subtitle": "Protect Your Capital and Prepare for the Next Crypto Cycle",
+    "description": "TODO real copy.",
+    "longDescription": "TODO real copy.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/bear-market-survival.jpg",
+    "coverAudio": "instant-crypto/audio/bear-market-survival.jpg",
+    "relatedSlugs": [],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/bear-market-survival-sample.mp3"
+  },
+  {
+    "slug": "crypto-without-stress",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-2",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 12,
+    "title": "Crypto Without Stress",
+    "subtitle": "Safer Strategies for Volatile and Sideways Markets",
+    "description": "TODO real copy.",
+    "longDescription": "TODO real copy.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/crypto-without-stress.jpg",
+    "coverAudio": "instant-crypto/audio/crypto-without-stress.jpg",
+    "relatedSlugs": [],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/crypto-without-stress-sample.mp3"
+  },
+  {
+    "slug": "crypto-psychology-unlocked",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-2",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 13,
+    "title": "Crypto Psychology Unlocked",
+    "subtitle": "Control Emotions and Make Smarter Decisions",
+    "description": "TODO real copy.",
+    "longDescription": "TODO real copy.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/crypto-psychology-unlocked.jpg",
+    "coverAudio": "instant-crypto/audio/crypto-psychology-unlocked.jpg",
+    "relatedSlugs": [],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/crypto-psychology-unlocked-sample.mp3"
+  },
+  {
+    "slug": "stablecoins-explained",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-2",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 14,
+    "title": "Stablecoins Explained",
+    "subtitle": "Reduce Risk, Preserve Value, and Stay Liquid in Crypto",
+    "description": "TODO real copy.",
+    "longDescription": "TODO real copy.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/stablecoins-explained.jpg",
+    "coverAudio": "instant-crypto/audio/stablecoins-explained.jpg",
+    "relatedSlugs": [],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/stablecoins-explained-sample.mp3"
+  },
+  {
+    "slug": "crypto-portfolio-rules",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-2",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 15,
+    "title": "Crypto Portfolio Rules",
+    "subtitle": "Build a Smarter Portfolio Without Overthinking",
+    "description": "TODO real copy.",
+    "longDescription": "TODO real copy.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/crypto-portfolio-rules.jpg",
+    "coverAudio": "instant-crypto/audio/crypto-portfolio-rules.jpg",
+    "relatedSlugs": [],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/crypto-portfolio-rules-sample.mp3"
+  },
+  {
+    "slug": "crypto-income-simplified",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-2",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 16,
+    "title": "Crypto Income Simplified",
+    "subtitle": "Earn Yield Without Chasing High-Risk DeFi Returns",
+    "description": "TODO real copy.",
+    "longDescription": "TODO real copy.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/crypto-income-simplified.jpg",
+    "coverAudio": "instant-crypto/audio/crypto-income-simplified.jpg",
+    "relatedSlugs": [],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/crypto-income-simplified-sample.mp3"
+  },
+  {
+    "slug": "market-re-entry",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-2",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 17,
+    "title": "Market Re-Entry",
+    "subtitle": "How to Buy Crypto Confidently After a Crash",
+    "description": "TODO real copy.",
+    "longDescription": "TODO real copy.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/market-re-entry.jpg",
+    "coverAudio": "instant-crypto/audio/market-re-entry.jpg",
+    "relatedSlugs": [],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/market-re-entry-sample.mp3"
+  },
+  {
+    "slug": "long-term-crypto-thinking",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-2",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 18,
+    "title": "Long-Term Crypto Thinking",
+    "subtitle": "Build Wealth by Playing the Long Game",
+    "description": "TODO real copy.",
+    "longDescription": "TODO real copy.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/long-term-crypto-thinking.jpg",
+    "coverAudio": "instant-crypto/audio/long-term-crypto-thinking.jpg",
+    "relatedSlugs": [],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/long-term-crypto-thinking-sample.mp3"
+  },
+  {
+    "slug": "crypto-myths-exposed",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-2",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 19,
+    "title": "Crypto Myths Exposed",
+    "subtitle": "Avoid Costly Mistakes Most Investors Still Make",
+    "description": "TODO real copy.",
+    "longDescription": "TODO real copy.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/crypto-myths-exposed.jpg",
+    "coverAudio": "instant-crypto/audio/crypto-myths-exposed.jpg",
+    "relatedSlugs": [],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/crypto-myths-exposed-sample.mp3"
+  },
+  {
+    "slug": "crypto-for-busy-people",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-2",
+    "kind": "book",
+    "role": "deep-dive",
+    "order": 20,
+    "title": "Crypto for Busy People",
+    "subtitle": "Stay Invested Without Watching Charts All Day",
+    "description": "TODO real copy.",
+    "longDescription": "TODO real copy.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/crypto-for-busy-people.jpg",
+    "coverAudio": "instant-crypto/audio/crypto-for-busy-people.jpg",
+    "relatedSlugs": [],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/crypto-for-busy-people-sample.mp3"
+  },
+  {
+    "slug": "instant-crypto-collection-11-20",
+    "series": "instant-crypto",
+    "subSeries": "instant-crypto-2",
+    "kind": "collection",
+    "collectionSlugs": [
+      "bear-market-survival",
+      "crypto-without-stress",
+      "crypto-psychology-unlocked",
+      "stablecoins-explained",
+      "crypto-portfolio-rules",
+      "crypto-income-simplified",
+      "market-re-entry",
+      "long-term-crypto-thinking",
+      "crypto-myths-exposed",
+      "crypto-for-busy-people"
+    ],
+    "order": 101,
+    "title": "Instant Crypto Collection (Books 11–20)",
+    "subtitle": "Calm Strategies for Every Market Cycle",
+    "description": "Clarity and confidence for the moments that matter most — ten expert guides in one.",
+    "longDescription": "The Instant Crypto Collection: Volume Two brings together ten concise, practical mini-guides designed to help you stay calm, protect capital, and think clearly through every phase of the market cycle. Rather than chasing hype or predictions, this collection focuses on discipline, risk awareness, and long-term thinking.",
+    "keyTakeaways": [
+      "TODO: real key takeaways."
+    ],
+    "coverDigital": "instant-crypto/digital/instant-crypto-collection-11-20.jpg",
+    "coverAudio": "instant-crypto/audio/instant-crypto-collection-11-20.jpg",
+    "relatedSlugs": [],
+    "formats": [
+      "kindle",
+      "audible"
+    ],
+    "audioSample": "/audio/instant-crypto-collection-11-20-sample.mp3"
+  }
+]

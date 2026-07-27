@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Placeholder Article 1",
+    "slug": "placeholder-article-1",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "Crypto Basics",
+    "date": "2026-07-20",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  },
+  {
+    "title": "Placeholder Article 2",
+    "slug": "placeholder-article-2",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "Blockchain",
+    "date": "2026-07-17",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  },
+  {
+    "title": "Placeholder Article 3",
+    "slug": "placeholder-article-3",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "Trading",
+    "date": "2026-07-14",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  },
+  {
+    "title": "Placeholder Article 4",
+    "slug": "placeholder-article-4",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "Wallets & Security",
+    "date": "2026-07-11",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  },
+  {
+    "title": "Placeholder Article 5",
+    "slug": "placeholder-article-5",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "DeFi",
+    "date": "2026-07-08",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  },
+  {
+    "title": "Placeholder Article 6",
+    "slug": "placeholder-article-6",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "NFTs",
+    "date": "2026-07-05",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  },
+  {
+    "title": "Placeholder Article 7",
+    "slug": "placeholder-article-7",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "Regulation",
+    "date": "2026-07-02",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  },
+  {
+    "title": "Placeholder Article 8",
+    "slug": "placeholder-article-8",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "Mindset",
+    "date": "2026-06-29",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  },
+  {
+    "title": "Placeholder Article 9",
+    "slug": "placeholder-article-9",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "Crypto Basics",
+    "date": "2026-06-26",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  },
+  {
+    "title": "Placeholder Article 10",
+    "slug": "placeholder-article-10",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "Blockchain",
+    "date": "2026-06-23",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  },
+  {
+    "title": "Placeholder Article 11",
+    "slug": "placeholder-article-11",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "Trading",
+    "date": "2026-06-20",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  },
+  {
+    "title": "Placeholder Article 12",
+    "slug": "placeholder-article-12",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "Wallets & Security",
+    "date": "2026-06-17",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  },
+  {
+    "title": "Placeholder Article 13",
+    "slug": "placeholder-article-13",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "DeFi",
+    "date": "2026-06-14",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  },
+  {
+    "title": "Placeholder Article 14",
+    "slug": "placeholder-article-14",
+    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "category": "NFTs",
+    "date": "2026-06-11",
+    "content": [
+      {
+        "heading": "Placeholder heading",
+        "text": "Placeholder body copy — TODO real content."
+      }
+    ]
+  }
+]
