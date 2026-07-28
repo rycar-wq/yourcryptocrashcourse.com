@@ -1,6 +1,7 @@
 import Link from "next/link";
 import JsonLd from "@/components/common/JsonLd";
 import PhotoHero from "@/components/common/PhotoHero";
+import SectionJumpNav from "@/components/common/SectionJumpNav";
 import BookGrid from "@/components/books/BookGrid";
 import {
   getBooksBySeries,
@@ -76,8 +77,16 @@ export default function AudiobooksPage() {
         </div>
       </PhotoHero>
 
+      <SectionJumpNav
+        sections={[
+          { id: "crash-course", label: "Your Crypto Crash Course" },
+          { id: "instant-crypto-1", label: "Instant Crypto 1 — Books 1–10" },
+          { id: "instant-crypto-2", label: "Instant Crypto 2 — Books 11–20" },
+        ]}
+      />
+
       <section className="max-w-6xl mx-auto px-6 py-16 space-y-16">
-        <div>
+        <div id="crash-course" className="scroll-mt-24">
           <h2 className="text-2xl font-bold text-gray-900 mb-3">
             Your Crypto Crash Course
           </h2>
@@ -93,7 +102,7 @@ export default function AudiobooksPage() {
           />
         </div>
 
-        <div>
+        <div id="instant-crypto-1" className="scroll-mt-24">
           <h2 className="text-2xl font-bold text-gray-900 mb-3">
             Instant Crypto 1 — Books 1–10
           </h2>
@@ -109,7 +118,7 @@ export default function AudiobooksPage() {
           />
         </div>
 
-        <div>
+        <div id="instant-crypto-2" className="scroll-mt-24">
           <h2 className="text-2xl font-bold text-gray-900 mb-3">
             Instant Crypto 2 — Books 11–20
           </h2>
