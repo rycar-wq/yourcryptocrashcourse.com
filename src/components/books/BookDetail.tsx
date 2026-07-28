@@ -114,7 +114,7 @@ export default function BookDetail({
                   href={amazonUrl(book)}
                   className="flex-1 text-center px-6 py-3 border border-primary bg-white text-neutral-800 font-medium rounded-xl hover:bg-primary/10 transition"
                 >
-                  🖨️ Buy the Paperback
+                  📚 Buy the Paperback
                 </AmazonLink>
               ) : (
                 book.formats.includes("audible") && (

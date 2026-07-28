@@ -6,7 +6,7 @@ import categories from "@/data/categories.json";
 import { getVisibleArticles } from "@/utils/articles";
 import { categoryToSlug } from "@/utils/categorySlug";
 
-const MIN_POSTS_TO_FEATURE = 3;
+const VISIBLE_CATEGORY_LIMIT = 6;
 
 function getVisibleCategoryCounts() {
   const counts: Record<string, number> = {};
@@ -21,10 +21,8 @@ export default function CategoryFilter({ active }: { active?: string }) {
   // Categories with no published articles yet have nowhere to link to
   // (the category page 404s until they have at least one live post).
   const withContent = categories.filter((cat) => (counts[cat] || 0) > 0);
-  const featured = withContent.filter(
-    (cat) => counts[cat] >= MIN_POSTS_TO_FEATURE,
-  );
-  const more = withContent.filter((cat) => counts[cat] < MIN_POSTS_TO_FEATURE);
+  const featured = withContent.slice(0, VISIBLE_CATEGORY_LIMIT);
+  const more = withContent.slice(VISIBLE_CATEGORY_LIMIT);
   const activeIsInMore = more.some((cat) => categoryToSlug(cat) === active);
 
   const [showMore, setShowMore] = useState(activeIsInMore);
