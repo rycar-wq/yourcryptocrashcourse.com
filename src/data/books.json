@@ -27,7 +27,8 @@
     ],
     "audioSample": "/audio/crypto-crash-course-sample.mp3",
     "asin": "B0DKB6C424",
-    "audibleUrl": "https://www.audible.co.uk/pd/Your-Crypto-Crash-Course-Audiobook/B0DP5GB64S"
+    "audibleUrl": "https://www.audible.co.uk/pd/Your-Crypto-Crash-Course-Audiobook/B0DP5GB64S",
+    "isbn": "979-8342853859"
   },
   {
     "slug": "crypto-creations",
@@ -57,7 +58,8 @@
     ],
     "audioSample": "/audio/crypto-creations-sample.mp3",
     "asin": "B0DF65BLVY",
-    "audibleUrl": "https://www.audible.co.uk/pd/Crypto-Creations-Audiobook/B0DR3QFP3D"
+    "audibleUrl": "https://www.audible.co.uk/pd/Crypto-Creations-Audiobook/B0DR3QFP3D",
+    "isbn": "979-8343174663"
   },
   {
     "slug": "web-3-wonders",
@@ -87,7 +89,8 @@
     ],
     "audioSample": "/audio/web-3-wonders-sample.mp3",
     "asin": "B0DKFCGHMD",
-    "audibleUrl": "https://www.audible.co.uk/pd/Web-30-Wonders-Your-Guide-to-Unpacking-DAOs-Decentralization-and-the-Metaverse-Audiobook/B0DS6MTKTR"
+    "audibleUrl": "https://www.audible.co.uk/pd/Web-30-Wonders-Your-Guide-to-Unpacking-DAOs-Decentralization-and-the-Metaverse-Audiobook/B0DS6MTKTR",
+    "isbn": "979-8342970068"
   },
   {
     "slug": "crypto-confidence",
@@ -117,7 +120,8 @@
     ],
     "audioSample": "/audio/crypto-confidence-sample.mp3",
     "asin": "B0DKFFW3ZN",
-    "audibleUrl": "https://www.audible.co.uk/pd/Crypto-Confidence-A-Beginners-Blueprint-to-Protecting-Your-Digital-Assets-Audiobook/B0DT511193"
+    "audibleUrl": "https://www.audible.co.uk/pd/Crypto-Confidence-A-Beginners-Blueprint-to-Protecting-Your-Digital-Assets-Audiobook/B0DT511193",
+    "isbn": "979-8343416589"
   },
   {
     "slug": "cryptos-carbon-conundrum",
@@ -147,7 +151,8 @@
     ],
     "audioSample": "/audio/cryptos-carbon-conundrum-sample.mp3",
     "asin": "B0DJWK78GB",
-    "audibleUrl": "https://www.audible.co.uk/pd/Cryptos-Carbon-Conundrum-Blockchains-Battle-with-the-Environment-Audiobook/B0DQ2DZDP5"
+    "audibleUrl": "https://www.audible.co.uk/pd/Cryptos-Carbon-Conundrum-Blockchains-Battle-with-the-Environment-Audiobook/B0DQ2DZDP5",
+    "isbn": "979-8342645157"
   },
   {
     "slug": "future-proof-your-tech-career",
@@ -174,7 +179,8 @@
       "kindle",
       "print"
     ],
-    "asin": "B0DLHT41WQ"
+    "asin": "B0DLHT41WQ",
+    "isbn": "979-8345533314"
   },
   {
     "slug": "crypto-crash-course-bundle",

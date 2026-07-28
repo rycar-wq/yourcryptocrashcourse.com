@@ -128,6 +128,13 @@ describe("books.json", () => {
       .map((book) => `${book.slug} -> ${book.asin}`);
     expect(invalid).toEqual([]);
   });
+
+  it("has a plausible ISBN-13 format where one is set (13 digits, hyphens allowed)", () => {
+    const invalid = typedBooks
+      .filter((book) => book.isbn && !/^\d{13}$/.test(book.isbn.replace(/-/g, "")))
+      .map((book) => `${book.slug} -> ${book.isbn}`);
+    expect(invalid).toEqual([]);
+  });
 });
 
 describe("categories.json", () => {
