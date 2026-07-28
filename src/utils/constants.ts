@@ -8,3 +8,8 @@ export const SITE_ORGANIZATION = {
   name: "Your Crypto Crash Course",
   url: SITE_URL,
 };
+
+// No dedicated brand logo file yet — use the flagship collection cover as a
+// stand-in for structured-data purposes (same approach Sharper Thinking took).
+export const SITE_LOGO =
+  "/images/covers/crash-course/digital/crypto-crash-course-bundle.jpg";

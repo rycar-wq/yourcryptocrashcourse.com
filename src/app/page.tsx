@@ -1,4 +1,5 @@
 import Link from "next/link";
+import JsonLd from "@/components/common/JsonLd";
 import PhotoHero from "@/components/common/PhotoHero";
 import CollectionsSpotlight from "@/components/audiobooks/CollectionsSpotlight";
 import BookGrid from "@/components/books/BookGrid";
@@ -7,8 +8,11 @@ import {
   getCollectionsBySubSeries,
   getFeaturedBooks,
 } from "@/utils/catalog";
+import { buildSiteJsonLd } from "@/utils/metadata";
 
 export default function Home() {
+  const jsonLd = buildSiteJsonLd();
+
   const audiobookCollections = [
     ...getCollectionsBySeries("crash-course"),
     ...getCollectionsBySubSeries("instant-crypto-1"),
@@ -21,6 +25,7 @@ export default function Home() {
 
   return (
     <>
+      <JsonLd data={jsonLd} />
       <PhotoHero
         image="/images/banners/home.jpg"
         alt="Bitcoin"

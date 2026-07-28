@@ -1,4 +1,4 @@
-import { SITE_URL, SITE_ORGANIZATION } from "../constants";
+import { SITE_URL, SITE_ORGANIZATION, SITE_LOGO } from "../constants";
 
 export function buildArticleJsonLd({
   title,
@@ -21,7 +21,7 @@ export function buildArticleJsonLd({
       name: SITE_ORGANIZATION.name,
       logo: {
         "@type": "ImageObject",
-        url: `${SITE_URL}/images/logo.png`,
+        url: `${SITE_URL}${SITE_LOGO}`,
       },
     },
     datePublished: date,
