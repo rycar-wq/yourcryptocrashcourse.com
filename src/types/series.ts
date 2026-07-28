@@ -4,5 +4,4 @@ export interface SeriesInfo {
   slug: SeriesSlug;
   name: string;
   tagline: string;
-  description: string;
 }

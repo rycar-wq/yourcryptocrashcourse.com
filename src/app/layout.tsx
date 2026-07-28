@@ -2,6 +2,7 @@ import "./globals.css";
 import { Sora } from "next/font/google";
 import Header from "@/components/common/Header";
 import Footer from "@/components/common/Footer";
+import Analytics from "@/components/common/Analytics";
 import { SITE_URL } from "@/utils/constants";
 
 const sora = Sora({ subsets: ["latin"], weight: ["300", "400", "600", "700"] });
@@ -21,6 +22,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${sora.className} text-gray-800`}>
+        <Analytics />
+
         <Header />
         {children}
         <Footer />

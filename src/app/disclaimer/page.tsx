@@ -71,16 +71,6 @@ export default function DisclaimerPage() {
         </p>
 
         <h2 className="text-2xl font-bold text-gray-900 mt-6 mb-2">
-          Affiliate Disclosure
-        </h2>
-        <p className="text-gray-700 leading-relaxed">
-          Some links on this site may be affiliate links. This means we may
-          earn a commission at no extra cost to you if you purchase through
-          our links. We only recommend products we trust, but{" "}
-          <strong>always do your own research</strong>.
-        </p>
-
-        <h2 className="text-2xl font-bold text-gray-900 mt-6 mb-2">
           Final Disclaimer
         </h2>
         <p className="text-gray-700 leading-relaxed">
