@@ -4,8 +4,14 @@ import JsonLd from "@/components/common/JsonLd";
 import Breadcrumbs from "@/components/common/Breadcrumbs";
 import AudibleLink from "@/components/common/AudibleLink";
 import AudioSample from "@/components/audiobooks/AudioSample";
+import ReviewCta from "@/components/common/ReviewCta";
 import RelatedBooksGrid from "@/components/books/RelatedBooksGrid";
-import { getBookBySlug, getSeriesInfo, bookHref } from "@/utils/catalog";
+import {
+  getBookBySlug,
+  getSeriesInfo,
+  bookHref,
+  reviewUrl,
+} from "@/utils/catalog";
 import {
   buildAudiobookJsonLd,
   buildBreadcrumbJsonLd,
@@ -85,6 +91,15 @@ export default function AudiobookDetail({
           </div>
         </div>
       </section>
+
+      {reviewUrl(book) && (
+        <ReviewCta
+          title="Leave a Quick Review"
+          description="Reviews genuinely help more readers discover Your Crypto Crash Course and Instant Crypto, and support future books and audiobooks."
+          buttonText="⭐ Review on Amazon"
+          buttonHref={reviewUrl(book)!}
+        />
+      )}
 
       <RelatedBooksGrid
         relatedSlugs={book.relatedSlugs}

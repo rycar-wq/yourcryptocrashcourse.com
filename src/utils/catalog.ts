@@ -76,6 +76,14 @@ export function amazonUrl(book: Book): string | undefined {
   return book.asin ? `https://www.amazon.com/dp/${book.asin}` : undefined;
 }
 
+// Same idea as amazonUrl — the "leave a review" link is just the ASIN
+// plugged into Amazon's fixed review-creation URL.
+export function reviewUrl(book: Book): string | undefined {
+  return book.asin
+    ? `https://www.amazon.com/review/create-review?asin=${book.asin}`
+    : undefined;
+}
+
 // The badge label shown on a book's card. Collections and bonus items get a
 // flat label; individual books get a series-appropriate one, using `role`
 // to distinguish crash-course's single "Core" book from the rest.

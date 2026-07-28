@@ -10,6 +10,7 @@ import {
   getBooksWithFormat,
   bookHref,
   amazonUrl,
+  reviewUrl,
   getBookBadgeLabel,
   getFeaturedBooks,
 } from "./catalog";
@@ -140,6 +141,18 @@ describe("amazonUrl", () => {
 
   it("returns undefined when there's no ASIN yet", () => {
     expect(amazonUrl(makeBook())).toBeUndefined();
+  });
+});
+
+describe("reviewUrl", () => {
+  it("builds a review-creation link from the book's ASIN", () => {
+    expect(reviewUrl(makeBook({ asin: "B0DKB6C424" }))).toBe(
+      "https://www.amazon.com/review/create-review?asin=B0DKB6C424",
+    );
+  });
+
+  it("returns undefined when there's no ASIN yet", () => {
+    expect(reviewUrl(makeBook())).toBeUndefined();
   });
 });
 
