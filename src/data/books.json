@@ -7,10 +7,14 @@
     "order": 1,
     "title": "Your Crypto Crash Course",
     "subtitle": "Fast-Tracking The Journey into Bitcoin, Blockchain, and Beyond",
-    "description": "Discover how Bitcoin works, why blockchain is revolutionizing industries, and how you can get started in crypto safely.",
-    "longDescription": "A beginner-friendly deep dive into Bitcoin, blockchain, Web3, and beyond. Learn how to navigate the crypto space with confidence.",
+    "description": "The world of crypto is here — are you ready to understand it?",
+    "longDescription": "Bitcoin, blockchain, and decentralized finance are transforming the way money moves, stores value, and builds opportunity. Your Crypto Crash Course is your guide to understanding this revolution — what it is, why it matters, and how to get involved safely. Whether you're completely new to cryptocurrency or curious about the hype, this clear, practical guide breaks down the essentials and helps you take your first confident steps into the digital economy.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Bitcoin made simple: what it is, how it works, and why it's reshaping global finance.",
+      "Blockchain explained: how decentralization builds trust without banks or middlemen.",
+      "Smart contracts, NFTs & DeFi: the real-world innovations driving Web3 and the future of money.",
+      "Security essentials: how to protect your assets, avoid scams, and keep your crypto safe.",
+      "Investing foundations: practical tips for buying your first crypto, choosing wallets, and managing risk."
     ],
     "coverDigital": "crash-course/digital/crypto-crash-course.jpg",
     "coverAudio": "crash-course/audio/crypto-crash-course.jpg",
@@ -38,10 +42,14 @@
     "order": 2,
     "title": "Crypto Creations",
     "subtitle": "How Smart Contracts, NFTs, and DeFi Are Shaping the Future",
-    "description": "Explore how blockchain is creating new opportunities in art, finance, and business.",
-    "longDescription": "Learn how smart contracts, NFTs, and decentralized finance (DeFi) are transforming industries. This book simplifies complex Web3 concepts for beginners.",
+    "description": "Discover the revolutionary side of blockchain — where creativity meets code.",
+    "longDescription": "Smart contracts, NFTs, and decentralized finance (DeFi) are more than buzzwords — they're rewriting how we exchange value, prove ownership, and access financial opportunity. Crypto Creations is your guide to understanding these innovations and the real ways they're changing the world, breaking down complex ideas into simple insights you can use right away.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Smart contracts explained: how programmable, self-executing code is reshaping industries from real estate to law.",
+      "NFTs and digital ownership: why creators are using blockchain to protect and monetize their work.",
+      "DeFi and financial freedom: how decentralized apps deliver transparent, borderless finance for everyone.",
+      "Real-world innovation: how these tools are being used today — and where they're headed next.",
+      "Getting involved: practical steps to explore opportunities safely in this fast-moving new economy."
     ],
     "coverDigital": "crash-course/digital/crypto-creations.jpg",
     "coverAudio": "crash-course/audio/crypto-creations.jpg",
@@ -69,10 +77,14 @@
     "order": 3,
     "title": "Web 3.0 Wonders",
     "subtitle": "Your Guide to Unpacking DAOs, Decentralization, and the Metaverse",
-    "description": "A must-read for those curious about the future of the internet and digital ownership.",
-    "longDescription": "Discover the rise of decentralized autonomous organizations (DAOs), the Metaverse, and the broader implications of Web3.",
+    "description": "Step into the next evolution of the internet — where users take back control.",
+    "longDescription": "Web 3.0 is transforming how we connect, create, and collaborate online. Web 3.0 Wonders is your guide to understanding this revolution — from DAOs and decentralization to the rise of the metaverse and digital ownership — and shows you exactly why they matter.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "The evolution of the web: how we moved from Web 1.0 to Web 3.0 — and why decentralization changes everything.",
+      "All about DAOs: how Decentralized Autonomous Organizations empower communities to collaborate and make collective decisions.",
+      "Decentralization demystified: how blockchain gives you real control over your data and digital identity.",
+      "Exploring the metaverse: immersive virtual worlds where social interaction, commerce, and creativity collide.",
+      "Real-world innovation: how Web 3.0 is already reshaping finance, art, gaming, and entertainment."
     ],
     "coverDigital": "crash-course/digital/web-3-wonders.jpg",
     "coverAudio": "crash-course/audio/web-3-wonders.jpg",
@@ -100,10 +112,14 @@
     "order": 4,
     "title": "Crypto Confidence",
     "subtitle": "A Beginner’s Blueprint to Protecting Your Digital Assets",
-    "description": "Master essential security principles and gain confidence in the crypto space.",
-    "longDescription": "Security is key in the world of crypto. This book helps beginners protect their digital wealth from scams, hacks, and risks.",
+    "description": "Protect your wealth in the world of digital assets.",
+    "longDescription": "Crypto isn't just about opportunity — it's about security. Crypto Confidence is your guide to protecting your digital wealth and building a rock-solid foundation of crypto safety, explaining how to identify risks, secure your wallets, and safeguard your investments against scams, hacks, and costly mistakes.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Understanding digital assets: what cryptocurrencies really are, how they work, and why security starts with knowledge.",
+      "Spotting security threats: how to identify phishing, rug pulls, and common traps before they strike.",
+      "Wallet security simplified: hot vs. cold wallets, private keys, backups, and password protection made easy.",
+      "Building your security framework: step-by-step guidance for creating your personal crypto safety plan.",
+      "Staying protected long-term: habits that keep your assets safe as the crypto world changes."
     ],
     "coverDigital": "crash-course/digital/crypto-confidence.jpg",
     "coverAudio": "crash-course/audio/crypto-confidence.jpg",
@@ -131,10 +147,14 @@
     "order": 5,
     "title": "Crypto’s Carbon Conundrum",
     "subtitle": "Blockchain’s Battle with the Environment",
-    "description": "Understand the environmental impact of crypto and the solutions being developed.",
-    "longDescription": "Crypto’s energy consumption is controversial. This book explores how blockchain technology is evolving to become more sustainable.",
+    "description": "Can crypto go green? Discover how blockchain is reinventing sustainability.",
+    "longDescription": "Energy use and the environment are among the biggest debates in crypto — but innovation is already changing the story. Crypto's Carbon Conundrum is your guide to understanding blockchain's environmental challenges and the cutting-edge solutions shaping a cleaner, greener future.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "The environmental cost of blockchain: how mining and Proof of Work (PoW) impact energy consumption and emissions.",
+      "Green innovations: sustainable technologies like Proof of Stake (PoS), Layer 2 scaling, and carbon-neutral sidechains.",
+      "Real-world eco projects: initiatives such as KlimaDAO, Power Ledger, and Energy Web leading the green crypto movement.",
+      "Practical sustainability: simple actions to reduce your footprint and support environmentally responsible platforms.",
+      "The future of green blockchain: how innovation, awareness, and collective action are creating a cleaner crypto ecosystem."
     ],
     "coverDigital": "crash-course/digital/cryptos-carbon-conundrum.jpg",
     "coverAudio": "crash-course/audio/cryptos-carbon-conundrum.jpg",
@@ -162,10 +182,14 @@
     "order": 6,
     "title": "Future-Proof Your Tech Career",
     "subtitle": "Skills for Success in Blockchain and Web3",
-    "description": "Take the leap—prepare your career for the Web3 era today!",
-    "longDescription": "Ready to pivot into a Web3 career? Read this guide to upskill and join the revolution!",
+    "description": "Step into the future of tech — and make your skills Web3-ready.",
+    "longDescription": "Blockchain, smart contracts, and decentralized networks are reshaping how the tech industry works. Future-Proof Your Tech Career is your fast guide to thriving in this new era — helping developers, engineers, and tech professionals transition from Web2 to Web3 with confidence.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Key Web3 concepts: blockchain fundamentals, smart contracts, and decentralized architecture — explained simply.",
+      "Essential developer skills: the top programming languages and tools driving Web3, including Solidity, Rust, and dApp frameworks.",
+      "Emerging career paths: opportunities in development, protocol design, crypto security, and DAO community management.",
+      "Decentralized work models: how to collaborate effectively in remote, community-driven environments and DAOs.",
+      "Adapt and grow: building resilience and staying ahead of the curve in a rapidly evolving digital landscape."
     ],
     "coverDigital": "crash-course/digital/future-proof-your-tech-career.jpg",
     "coverAudio": "crash-course/digital/future-proof-your-tech-career.jpg",
@@ -199,7 +223,11 @@
     "description": "Dive into the exciting world of cryptocurrency — from Bitcoin basics to advanced blockchain applications, all in one collection.",
     "longDescription": "Whether you're a beginner looking to understand Bitcoin or someone eager to explore advanced blockchain applications, this comprehensive collection has you covered. Each book offers clear explanations, real-world examples, and actionable insights designed to help you master cryptocurrency and blockchain technology.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "A complete, five-book foundation covering Bitcoin, blockchain, and Web3 from first principles.",
+      "Practical grounding in smart contracts, NFTs, and DeFi — the innovations reshaping value and ownership.",
+      "DAOs, decentralization, and the metaverse: the ideas behind the next generation of the internet.",
+      "Essential security know-how for protecting your digital assets from scams and costly mistakes.",
+      "A clear look at blockchain's environmental impact and the innovations making it greener."
     ],
     "coverDigital": "crash-course/digital/crypto-crash-course-bundle.jpg",
     "coverAudio": "crash-course/audio/crypto-crash-course-bundle.jpg",
@@ -226,10 +254,13 @@
     "order": 1,
     "title": "Crypto Wallets Unlocked",
     "subtitle": "Secure Your Wealth Now",
-    "description": "Discover how to protect your digital assets from hacks and fraud.",
-    "longDescription": "Your essential guide to securing, storing, and managing cryptocurrencies safely. Learn about hardware, software, and multi-signature wallets.",
+    "description": "Secure your crypto before it's too late.",
+    "longDescription": "In today's fast-moving digital world, one small mistake can cost you your entire crypto portfolio. Crypto Wallets Unlocked is your essential 30-minute guide to protecting your Bitcoin, Ethereum, and digital assets from scams, hacks, and costly errors — in plain English, even if you're not a tech expert.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Wallets made simple: hot vs. cold, custodial vs. non-custodial — what they mean and which one's right for you.",
+      "Step-by-step setup: creating secure passwords, storing recovery phrases safely, and enabling two-factor authentication.",
+      "Real-world protection: spotting common scams, avoiding phishing attempts, and securing your devices from hidden threats.",
+      "Ongoing safety habits: the 5-minute routine that keeps your crypto secure long-term."
     ],
     "coverDigital": "instant-crypto/digital/crypto-wallets-unlocked.jpg",
     "coverAudio": "instant-crypto/audio/crypto-wallets-unlocked.jpg",
@@ -256,10 +287,14 @@
     "order": 2,
     "title": "NFT Know-How",
     "subtitle": "Start Buying, Selling, and Profiting Today",
-    "description": "Master the world of NFTs and digital ownership.",
-    "longDescription": "A crash course in NFTs—how they work, where to buy them, and strategies to profit from digital collectibles.",
+    "description": "Own a piece of the digital revolution — without the confusion.",
+    "longDescription": "NFTs are changing how we buy, sell, and value creativity online — but for newcomers, the space can feel chaotic and full of jargon. NFT Know-How is your clear, 30-minute mini-guide to understanding, collecting, and even creating NFTs with confidence.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "NFTs explained simply: what they are, why they matter, and how they're reshaping art, gaming, and online communities.",
+      "Buy and sell with confidence: step-by-step walkthroughs of leading platforms, evaluating projects, avoiding scams, and managing gas fees.",
+      "Create and mint your own NFTs: choosing a blockchain, setting royalties, and promoting your drops.",
+      "Keep your assets safe: essential wallet security and best practices to protect your digital collections.",
+      "Stay ahead of the trend: where NFTs are heading and how to position yourself for long-term opportunity."
     ],
     "coverDigital": "instant-crypto/digital/nft-know-how.jpg",
     "coverAudio": "instant-crypto/audio/nft-know-how.jpg",
@@ -286,10 +321,14 @@
     "order": 3,
     "title": "Yield Farming Fast-Track",
     "subtitle": "Maximizing Returns with Minimal Effort",
-    "description": "Discover passive income strategies in decentralized finance.",
-    "longDescription": "Learn how to earn high returns on your crypto holdings through DeFi yield farming, staking, and liquidity pools.",
+    "description": "Make your crypto work harder — even while you sleep.",
+    "longDescription": "Yield farming is one of the most powerful ways to earn passive income in decentralized finance (DeFi). But without the right strategy, it's easy to fall into traps that drain your returns. Yield Farming Fast-Track turns complex crypto concepts into simple, repeatable income strategies.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Yield farming made simple: what liquidity pools, APY, staking, and impermanent loss really mean.",
+      "Proven strategies: choosing the right platforms, maximizing rewards, and avoiding costly mistakes.",
+      "Smart compounding: reinvesting yields for exponential growth and long-term gains.",
+      "Risk control made easy: platform risks, smart contract vulnerabilities, and how to protect your capital.",
+      "Future-proofing your income: evolving trends in DeFi and how to position yourself early."
     ],
     "coverDigital": "instant-crypto/digital/yield-farming-fast-track.jpg",
     "coverAudio": "instant-crypto/audio/yield-farming-fast-track.jpg",
@@ -316,10 +355,14 @@
     "order": 4,
     "title": "Staking for Cash",
     "subtitle": "Earn Passive Income with Crypto Instantly",
-    "description": "Start staking and earning rewards with minimal effort.",
-    "longDescription": "A beginner’s guide to staking cryptocurrencies to earn rewards without the need for active trading.",
+    "description": "Earn rewards simply by holding your crypto.",
+    "longDescription": "Crypto staking is one of the easiest ways to build passive income — but it's often misunderstood. Staking for Cash is your straightforward guide to turning your crypto into a consistent income stream, without trading, guesswork, or complicated tech setups.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Staking explained clearly: what it is, how it works, and why it's one of the most stable ways to earn crypto rewards.",
+      "Choosing the right platform: centralized vs. decentralized staking, and picking the one that suits your goals.",
+      "Multiplying your returns: strategies for compounding rewards, managing risk, and rebalancing staked assets.",
+      "Staying safe while earning: avoiding scams, monitoring validators, and keeping your assets secure.",
+      "Advanced insights: portfolio diversification and long-term staking opportunities for consistent growth."
     ],
     "coverDigital": "instant-crypto/digital/staking-for-cash.jpg",
     "coverAudio": "instant-crypto/audio/staking-for-cash.jpg",
@@ -346,10 +389,14 @@
     "order": 5,
     "title": "Gas Fee Hacks",
     "subtitle": "Keep More of Your Money in Every Transaction",
-    "description": "Cut your transaction costs with gas fee optimization hacks.",
-    "longDescription": "Reduce your gas fees when trading or transacting on Ethereum and other blockchain networks. Save money with expert tips and strategies.",
+    "description": "Stop wasting crypto on high gas fees.",
+    "longDescription": "Ethereum gas fees can feel unpredictable, expensive, and frustrating — but with the right know-how, you can cut costs and keep more of your money in every transaction. Gas Fee Hacks shows you exactly how to make your transactions faster and cheaper.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Gas fees explained clearly: what they are, how they're calculated, and why they fluctuate.",
+      "Timing your transactions: when to trade or send to save the most on gas, and the tools that spot low-fee windows.",
+      "Layer 2 and bridging solutions: moving assets to cost-effective networks for fast, low-fee transactions.",
+      "Advanced hacks for power users: batching, gas tokens, and tools like Flashbots to avoid front-running.",
+      "Keeping more of your crypto: combining simple strategies to consistently reduce fees."
     ],
     "coverDigital": "instant-crypto/digital/gas-fee-hacks.jpg",
     "coverAudio": "instant-crypto/audio/gas-fee-hacks.jpg",
@@ -376,10 +423,14 @@
     "order": 6,
     "title": "Profit From Every Token",
     "subtitle": "Analyze Supply, Demand, and Utility for Better Returns",
-    "description": "Understand how to evaluate and profit from crypto tokens.",
-    "longDescription": "A practical guide to evaluating cryptocurrencies based on tokenomics, supply, demand, and real-world use cases.",
+    "description": "Understand what makes a token truly valuable — and profit from it.",
+    "longDescription": "Behind every successful crypto project lies one key concept: tokenomics. Profit from Every Token is your concise guide to decoding token value — giving you the insight and confidence to make smarter, data-driven decisions in the crypto market.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Supply & demand made simple: how token emissions, burns, and fixed supplies impact price and sentiment.",
+      "Utility that drives value: how staking, payments, and governance create real-world use and long-term demand.",
+      "Evaluating projects effectively: spotting sustainable ecosystems versus tokens built purely on hype.",
+      "Governance and influence: how decision-making power and voting rights boost a token's long-term strength.",
+      "Smart investor mindset: reading whitepapers and on-chain data that reveal whether a token is worth your time."
     ],
     "coverDigital": "instant-crypto/digital/profit-from-every-token.jpg",
     "coverAudio": "instant-crypto/audio/profit-from-every-token.jpg",
@@ -406,10 +457,14 @@
     "order": 7,
     "title": "DAO Empowerment",
     "subtitle": "Building Community Power in Decentralized Spaces",
-    "description": "Join the revolution of decentralized governance.",
-    "longDescription": "How DAOs (Decentralized Autonomous Organizations) are changing governance, business, and community-driven projects.",
+    "description": "Step into the future of collaboration — where communities hold the power.",
+    "longDescription": "DAO Empowerment is your guide to understanding, joining, and thriving in Decentralized Autonomous Organizations (DAOs) — the community-driven model transforming how people work together in Web3.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "DAOs explained simply: what they are, how they work, and why they're reshaping industries from art to finance.",
+      "How to join a DAO: wallet setup, membership verification, and finding the right DAO for your goals.",
+      "Growing your skills and influence: how participation builds expertise, reputation, and professional opportunity.",
+      "Making an impact: how to collaborate, propose projects, and drive change within your chosen DAO.",
+      "The future of decentralized governance: DAOs and the new era of shared ownership and transparency."
     ],
     "coverDigital": "instant-crypto/digital/dao-empowerment.jpg",
     "coverAudio": "instant-crypto/audio/dao-empowerment.jpg",
@@ -436,10 +491,14 @@
     "order": 8,
     "title": "Multi-Chain Money",
     "subtitle": "Bridge Blockchains and Boost Your Assets",
-    "description": "Break free from single-chain limitations.",
-    "longDescription": "Learn how to use cross-chain bridges, multi-chain wallets, and interoperability tools to maximize your crypto potential.",
+    "description": "Move your money freely across blockchains — and make it work harder for you.",
+    "longDescription": "The future of crypto isn't limited to one chain — it's multi-chain. Multi-Chain Money is your fast guide to mastering cross-chain transfers safely and profitably, showing you exactly how to bridge blockchains and unlock new opportunities.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Cross-chain made simple: what it is, why it matters, and how interoperability is reshaping crypto investing.",
+      "Choosing the right bridge: comparing platforms, fees, and security features to move assets confidently.",
+      "Step-by-step setup: connecting wallets, managing gas costs, and executing seamless transfers.",
+      "Boosting earning potential: cross-chain yield farming, staking, and liquidity strategies for bigger returns.",
+      "Protecting your capital: risk-management habits that keep assets secure across multiple ecosystems."
     ],
     "coverDigital": "instant-crypto/digital/multi-chain-money.jpg",
     "coverAudio": "instant-crypto/audio/multi-chain-money.jpg",
@@ -466,10 +525,14 @@
     "order": 9,
     "title": "Unbreakable Crypto",
     "subtitle": "Defend Your Digital Fortune Against Scams",
-    "description": "Fortify your crypto defenses against hackers and fraud.",
-    "longDescription": "A complete guide to crypto security, avoiding scams, and protecting your funds from cyber threats.",
+    "description": "Protect your crypto — and your peace of mind.",
+    "longDescription": "The promise of cryptocurrency comes with real danger: scams, hacks, and social-engineering traps that can wipe out years of savings in seconds. Unbreakable Crypto shows you how to keep your assets safe and your emotions steady in a risky market.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "The truth about crypto scams: Ponzi schemes, phishing, and rug pulls — why they work and how to recognize them instantly.",
+      "Red-flag checklist: the emotional triggers scammers exploit and how to stay calm when fear or FOMO strikes.",
+      "Practical protection: wallet setup, two-factor authentication, and private-key storage that actually keeps attackers out.",
+      "Building your defensive mindset: habits and routines that make you scam-resistant for life.",
+      "Staying ahead of new threats: the evolving tactics fraudsters use so you're never their next target."
     ],
     "coverDigital": "instant-crypto/digital/unbreakable-crypto.jpg",
     "coverAudio": "instant-crypto/audio/unbreakable-crypto.jpg",
@@ -496,10 +559,14 @@
     "order": 10,
     "title": "Crypto Market Mastery",
     "subtitle": "Timing Your Moves with Metrics",
-    "description": "Master the art of strategic crypto market moves.",
-    "longDescription": "Understand market indicators, trading psychology, and strategic analysis to time your crypto investments for maximum gains.",
+    "description": "Time your trades like a pro — with data, not emotion.",
+    "longDescription": "The crypto market moves fast, and guessing is expensive. Crypto Market Mastery is your guide to reading key on-chain and market metrics so you can buy, hold, and sell with confidence instead of luck.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Metrics made simple: transaction volume, volatility, and liquidity — what they mean and how to use them.",
+      "Market-cycle mastery: recognizing accumulation, uptrend, distribution, and downtrend phases.",
+      "Practical strategies: identifying buy/sell zones using volume spikes, volatility ranges, and liquidity shifts.",
+      "Staying alert in real time: setting smart notifications for metric changes.",
+      "Thinking like a strategist: replacing fear and FOMO with structured, repeatable decision-making."
     ],
     "coverDigital": "instant-crypto/digital/crypto-market-mastery.jpg",
     "coverAudio": "instant-crypto/audio/crypto-market-mastery.jpg",
@@ -526,10 +593,14 @@
     "order": 11,
     "title": "CBDCs Demystified",
     "subtitle": "Securing Your Future in Fintech’s Next Frontier",
-    "description": "Learn how CBDCs will shape the future of money and what they mean for your financial freedom.",
-    "longDescription": "A deep dive into Central Bank Digital Currencies (CBDCs), their impact on financial systems, privacy concerns, and how they differ from cryptocurrencies.",
+    "description": "The future of money is digital — are you ready for it?",
+    "longDescription": "Central Bank Digital Currencies (CBDCs) are reshaping how nations create, move, and control money. CBDCs Demystified is your fast guide to understanding this financial revolution — what it means for your privacy, your wallet, and your freedom.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "CBDCs explained clearly: what they are, how they differ from cryptocurrencies, and why central banks are racing to adopt them.",
+      "Everyday impacts: how digital money could change banking, payments, and personal finance.",
+      "Privacy vs. control: the real debate behind digital cash — surveillance risks and the trade-off with convenience.",
+      "Opportunities & adaptation: positioning yourself early as fintech opportunities emerge in a CBDC economy.",
+      "Global perspective: the countries leading the way and what their pilots reveal about the future of finance."
     ],
     "coverDigital": "instant-crypto/digital/cbdcs-demystified.jpg",
     "coverAudio": "instant-crypto/digital/cbdcs-demystified.jpg",
@@ -564,10 +635,13 @@
     "order": 100,
     "title": "Instant Crypto – The Full Collection",
     "subtitle": "10 Quick-Read Guides to Crypto Mastery",
-    "description": "Discover the Complete Crypto Companion — master the digital economy with confidence.",
-    "longDescription": "The Instant Crypto Mini Guides boxset brings you 10 concise, expertly written books that make cryptocurrency accessible, actionable, and insightful for both beginners and seasoned enthusiasts. Each guide is meticulously designed to address a specific aspect of cryptocurrency, offering bite-sized insights that let you explore, invest, and secure your digital assets with ease.",
+    "description": "Your complete fast-track to crypto success — ten expert guides in one.",
+    "longDescription": "The Instant Crypto Collection brings together ten concise, practical mini-guides that make cryptocurrency clear, actionable, and profitable. In just a few hours, you'll understand wallets, NFTs, yield farming, staking, security, and market strategy — everything you need to build confidence and control in the digital economy.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "A complete introduction to crypto security, from wallets to scam protection.",
+      "Practical income strategies: yield farming, staking, and tokenomics explained.",
+      "How to participate in decentralized communities through DAOs and multi-chain tools.",
+      "A structured, ten-guide path from beginner basics to confident, data-driven decision-making."
     ],
     "coverDigital": "instant-crypto/digital/instant-crypto-bundle.jpg",
     "coverAudio": "instant-crypto/audio/instant-crypto-bundle.jpg",
@@ -594,10 +668,13 @@
     "order": 11,
     "title": "Bear Market Survival",
     "subtitle": "Protect Your Capital and Prepare for the Next Crypto Cycle",
-    "description": "TODO real copy.",
-    "longDescription": "TODO real copy.",
+    "description": "Crypto bear markets don't announce themselves — they quietly test patience, confidence, and judgement.",
+    "longDescription": "When markets turn against you, most losses don't come from a single bad move, but from confusion, emotional pressure, and reacting without a clear framework. Bear Market Survival strips away hype and focuses on how bear markets really work, why they feel so difficult, and how to think clearly when conditions are uncertain.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Why most losses happen quietly: how small, emotional decisions during bear markets compound into lasting damage.",
+      "Capital protection as a skill: why survival comes before opportunity, and how restraint preserves future choice.",
+      "The psychology of long downturns: how boredom, doubt, and frustration influence behaviour more than price moves.",
+      "Preparing without rushing: staying ready for the next cycle without forcing action or chasing certainty."
     ],
     "coverDigital": "instant-crypto/digital/bear-market-survival.jpg",
     "coverAudio": "instant-crypto/audio/bear-market-survival.jpg",
@@ -624,10 +701,13 @@
     "order": 12,
     "title": "Crypto Without Stress",
     "subtitle": "Safer Strategies for Volatile and Sideways Markets",
-    "description": "TODO real copy.",
-    "longDescription": "TODO real copy.",
+    "description": "Crypto doesn't have to feel overwhelming, frantic, or emotionally draining.",
+    "longDescription": "Many people struggle with crypto not because they lack intelligence, but because the environment is noisy, unpredictable, and emotionally demanding. Crypto Without Stress explains complex ideas in plain English and focuses on clearer thinking rather than constant action — helping you stay steady through volatility and uncertainty.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Why volatility feels worse than it is: understanding sharp market moves without panic or overreaction.",
+      "What sideways markets are really doing: why long quiet periods test confidence — and how to handle them calmly.",
+      "How positioning creates stress: why most anxiety comes from exposure and expectations, not the market itself.",
+      "How to think without forecasts: replacing predictions with probability-based decision-making."
     ],
     "coverDigital": "instant-crypto/digital/crypto-without-stress.jpg",
     "coverAudio": "instant-crypto/audio/crypto-without-stress.jpg",
@@ -654,10 +734,13 @@
     "order": 13,
     "title": "Crypto Psychology Unlocked",
     "subtitle": "Control Emotions and Make Smarter Decisions",
-    "description": "TODO real copy.",
-    "longDescription": "TODO real copy.",
+    "description": "Crypto doesn't just test your knowledge — it tests your emotions.",
+    "longDescription": "Many people understand the basics of crypto, yet still make decisions they later regret. Crypto Psychology Unlocked focuses on how emotions influence decisions and how to think more calmly and consistently, without technical overload or jargon.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Why emotions drive decisions: how fear, excitement, and pressure quietly shape judgement in crypto.",
+      "Short-term vs. long-term thinking: why volatility compresses time horizons and leads to poor choices.",
+      "Common psychological traps: the patterns that cause repeat mistakes — and why they're so hard to spot.",
+      "Calm decision frameworks: simple ways to reduce emotional noise and think more clearly under uncertainty."
     ],
     "coverDigital": "instant-crypto/digital/crypto-psychology-unlocked.jpg",
     "coverAudio": "instant-crypto/audio/crypto-psychology-unlocked.jpg",
@@ -684,10 +767,13 @@
     "order": 14,
     "title": "Stablecoins Explained",
     "subtitle": "Reduce Risk, Preserve Value, and Stay Liquid in Crypto",
-    "description": "TODO real copy.",
-    "longDescription": "TODO real copy.",
+    "description": "Crypto doesn't just move fast — it wears people down.",
+    "longDescription": "Many people misunderstand stablecoins, treating them as either completely safe or completely pointless. Stablecoins Explained cuts through the confusion, explaining what stablecoins are, how they work, and where they fit into a sensible crypto approach.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "What stablecoins really are: how they're designed, what 'stable' actually means, and why it doesn't equal risk-free.",
+      "How stability is maintained: the main mechanisms behind stablecoins, explained without jargon.",
+      "Where things go wrong: common risks, failures, and mistakes — and what they reveal about trust and structure.",
+      "How to use them intelligently: clear thinking frameworks for managing volatility, liquidity, and decision-making."
     ],
     "coverDigital": "instant-crypto/digital/stablecoins-explained.jpg",
     "coverAudio": "instant-crypto/audio/stablecoins-explained.jpg",
@@ -714,10 +800,13 @@
     "order": 15,
     "title": "Crypto Portfolio Rules",
     "subtitle": "Build a Smarter Portfolio Without Overthinking",
-    "description": "TODO real copy.",
-    "longDescription": "TODO real copy.",
+    "description": "Crypto portfolios don't usually fail because of bad assets — they fail because of unclear decisions.",
+    "longDescription": "Many people enter crypto with good intentions, only to end up with portfolios that feel messy and stressful. Crypto Portfolio Rules strips away hype and focuses on how to think about building and managing a crypto portfolio calmly, intentionally, and sustainably.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "What a portfolio really is: why a crypto portfolio is a decision system, not just a collection of tokens.",
+      "How balance actually works: the roles different assets play and why diversification exists beyond buzzwords.",
+      "Rules that reduce emotional mistakes: how simple boundaries protect you from fear, overconfidence, and noise.",
+      "A sustainable long-term approach: why patience, restraint, and clarity often outperform constant tinkering."
     ],
     "coverDigital": "instant-crypto/digital/crypto-portfolio-rules.jpg",
     "coverAudio": "instant-crypto/audio/crypto-portfolio-rules.jpg",
@@ -744,10 +833,13 @@
     "order": 16,
     "title": "Crypto Income Simplified",
     "subtitle": "Earn Yield Without Chasing High-Risk DeFi Returns",
-    "description": "TODO real copy.",
-    "longDescription": "TODO real copy.",
+    "description": "Crypto income doesn't have to mean chasing complexity or taking risks you don't fully understand.",
+    "longDescription": "Crypto income has often been framed as effortless and always available, leading many people into strategies they didn't fully understand. Crypto Income Simplified explains where crypto yield actually comes from, why many income strategies break down, and how to think clearly about risk.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "What crypto income really is: separating genuine yield from price speculation and misleading 'passive income' claims.",
+      "Where yield actually comes from: lending, staking, fees, and incentives — without technical overload.",
+      "Why high yields often fail: how leverage, complexity, and incentives create fragile systems that break under stress.",
+      "A smarter way to evaluate opportunities: simple frameworks to assess risk, control, and sustainability."
     ],
     "coverDigital": "instant-crypto/digital/crypto-income-simplified.jpg",
     "coverAudio": "instant-crypto/audio/crypto-income-simplified.jpg",
@@ -774,10 +866,13 @@
     "order": 17,
     "title": "Market Re-Entry",
     "subtitle": "How to Buy Crypto Confidently After a Crash",
-    "description": "TODO real copy.",
-    "longDescription": "TODO real copy.",
+    "description": "Secure your footing before stepping back into crypto.",
+    "longDescription": "After a market crash, many people hesitate, rush back in emotionally, or stay frozen on the sidelines for too long. Market Re-Entry focuses on how to think clearly about re-entering crypto after a downturn, helping you rebuild confidence without pressure or hype.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "What a crypto crash really means: how market downturns work structurally, and why they don't invalidate long-term relevance.",
+      "The psychology that blocks re-entry: how regret, loss aversion, and bad timing quietly distort decisions.",
+      "Why re-entry often goes wrong: common patterns that lead to rushed, reactive, or endlessly delayed decisions.",
+      "A calmer framework for re-entry: approaching crypto with pacing, self-awareness, and risk alignment."
     ],
     "coverDigital": "instant-crypto/digital/market-re-entry.jpg",
     "coverAudio": "instant-crypto/audio/market-re-entry.jpg",
@@ -804,10 +899,13 @@
     "order": 18,
     "title": "Long-Term Crypto Thinking",
     "subtitle": "Build Wealth by Playing the Long Game",
-    "description": "TODO real copy.",
-    "longDescription": "TODO real copy.",
+    "description": "Building wealth in crypto is less about timing the market — and more about how you think over time.",
+    "longDescription": "Long-Term Crypto Thinking focuses on the patience, time horizons, and realistic expectations that separate durable wealth-building from short-term speculation, helping you make decisions that fit your own tolerance for risk and uncertainty.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Why patience compounds: how time horizon, not timing, is the biggest lever in long-term crypto outcomes.",
+      "Separating signal from noise: telling genuine long-term value from short-term speculation and hype.",
+      "Realistic expectations: setting a sustainable pace instead of chasing constant, high-stakes wins.",
+      "Thinking in decades, not days: building a mindset that holds up across full market cycles."
     ],
     "coverDigital": "instant-crypto/digital/long-term-crypto-thinking.jpg",
     "coverAudio": "instant-crypto/audio/long-term-crypto-thinking.jpg",
@@ -834,10 +932,13 @@
     "order": 19,
     "title": "Crypto Myths Exposed",
     "subtitle": "Avoid Costly Mistakes Most Investors Still Make",
-    "description": "TODO real copy.",
-    "longDescription": "TODO real copy.",
+    "description": "Most crypto losses don't come from bad luck — they come from believing the wrong things.",
+    "longDescription": "Crypto is surrounded by confident opinions and simple stories that quietly lead people into avoidable mistakes. Crypto Myths Exposed focuses on clear thinking rather than tactics, helping you recognise misleading assumptions and approach crypto with calm confidence.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Why crypto myths spread so easily: how uncertainty and emotion create false certainty.",
+      "The thinking errors that catch smart people out: why intelligence alone isn't protection in crypto environments.",
+      "How risk actually behaves: why 'safe' structures fail under pressure and what that reveals about hidden exposure.",
+      "A clearer way to evaluate decisions: thinking in systems, incentives, and trade-offs instead of stories and promises."
     ],
     "coverDigital": "instant-crypto/digital/crypto-myths-exposed.jpg",
     "coverAudio": "instant-crypto/audio/crypto-myths-exposed.jpg",
@@ -864,10 +965,13 @@
     "order": 20,
     "title": "Crypto for Busy People",
     "subtitle": "Stay Invested Without Watching Charts All Day",
-    "description": "TODO real copy.",
-    "longDescription": "TODO real copy.",
+    "description": "Crypto doesn't require constant attention to be taken seriously.",
+    "longDescription": "Crypto attracts intelligent, thoughtful people — yet many end up overwhelmed by charts and constant noise. Crypto for Busy People explains how to focus on the few decisions that truly matter, so you can stay invested calmly without crypto dominating your time or mental space.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "Why constant monitoring backfires: how watching prices all day quietly increases stress and worsens decisions.",
+      "What actually matters long term: the small number of choices that shape outcomes far more than daily reactions.",
+      "Common traps busy people fall into: why headlines, trends, and urgency derail good intentions.",
+      "A low-attention investing mindset: staying involved with confidence, patience, and clear boundaries."
     ],
     "coverDigital": "instant-crypto/digital/crypto-for-busy-people.jpg",
     "coverAudio": "instant-crypto/audio/crypto-for-busy-people.jpg",
@@ -908,7 +1012,10 @@
     "description": "Clarity and confidence for the moments that matter most — ten expert guides in one.",
     "longDescription": "The Instant Crypto Collection: Volume Two brings together ten concise, practical mini-guides designed to help you stay calm, protect capital, and think clearly through every phase of the market cycle. Rather than chasing hype or predictions, this collection focuses on discipline, risk awareness, and long-term thinking.",
     "keyTakeaways": [
-      "TODO: real key takeaways."
+      "How to protect capital and stay grounded during bear markets and downturns.",
+      "Frameworks for managing emotion, stress, and psychological traps under pressure.",
+      "Practical guidance on stablecoins, portfolio discipline, and re-entering after a crash.",
+      "A calm, long-term mindset for staying invested without constant stress or screen-watching."
     ],
     "coverDigital": "instant-crypto/digital/instant-crypto-collection-11-20.jpg",
     "coverAudio": "instant-crypto/audio/instant-crypto-collection-11-20.jpg",

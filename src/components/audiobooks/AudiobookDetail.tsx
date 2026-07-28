@@ -3,6 +3,7 @@ import Image from "next/image";
 import JsonLd from "@/components/common/JsonLd";
 import Breadcrumbs from "@/components/common/Breadcrumbs";
 import AudibleLink from "@/components/common/AudibleLink";
+import AmazonLink from "@/components/common/AmazonLink";
 import AudioSample from "@/components/audiobooks/AudioSample";
 import ReviewCta from "@/components/common/ReviewCta";
 import RelatedBooksGrid from "@/components/books/RelatedBooksGrid";
@@ -11,6 +12,7 @@ import {
   getSeriesInfo,
   bookHref,
   reviewUrl,
+  amazonUrl,
 } from "@/utils/catalog";
 import {
   buildAudiobookJsonLd,
@@ -80,12 +82,51 @@ export default function AudiobookDetail({
               <i>{book.description}</i>
             </p>
 
-            <AudibleLink
-              href={book.audibleUrl}
-              className="inline-block px-6 py-3 bg-primary text-white font-medium rounded-xl shadow hover:bg-primary/80 transition"
-            >
-              🎧 Listen on Audible
-            </AudibleLink>
+            {book.longDescription && (
+              <div className="text-gray-700 leading-relaxed whitespace-pre-line">
+                {book.longDescription}
+              </div>
+            )}
+
+            {book.keyTakeaways && book.keyTakeaways.length > 0 && (
+              <div className="border-t border-gray-200 pt-8 mt-8">
+                <h3 className="text-lg font-semibold text-gray-900 mb-3">
+                  Key Takeaways
+                </h3>
+                <ul className="list-none md:list-disc list-inside text-gray-700 sm:space-y-2 space-y-1">
+                  {book.keyTakeaways.map((point, index) => (
+                    <li key={index} className="pl-0 pb-4 md:pb-0 sm:pl-1">
+                      {point}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+
+            <div className="flex flex-col sm:flex-row flex-wrap gap-4 justify-center md:justify-start pt-4">
+              <AudibleLink
+                href={book.audibleUrl}
+                className="flex-1 text-center px-6 py-3 bg-primary text-white font-medium rounded-xl shadow hover:bg-primary/90 transition"
+              >
+                🎧 Listen on Audible
+              </AudibleLink>
+              {book.formats.includes("kindle") && (
+                <AmazonLink
+                  href={amazonUrl(book)}
+                  className="flex-1 text-center px-6 py-3 border border-primary bg-white text-neutral-800 font-medium rounded-xl hover:bg-primary/10 transition"
+                >
+                  📖 Read on Kindle
+                </AmazonLink>
+              )}
+              {book.formats.includes("print") && (
+                <AmazonLink
+                  href={amazonUrl(book)}
+                  className="flex-1 text-center px-6 py-3 border border-primary bg-white text-neutral-800 font-medium rounded-xl hover:bg-primary/10 transition"
+                >
+                  🖨️ Buy the Paperback
+                </AmazonLink>
+              )}
+            </div>
 
             <AudioSample title={book.title} filePath={book.audioSample} />
           </div>

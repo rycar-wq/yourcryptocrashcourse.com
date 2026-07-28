@@ -100,23 +100,31 @@ export default function BookDetail({
               </div>
             )}
 
-            <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start pt-4">
-              {book.formats.includes("audible") && (
-                <AudibleLink
-                  href={book.audibleUrl}
-                  className="flex-1 text-center px-6 py-3 bg-primary text-white font-medium rounded-xl shadow hover:bg-primary/80 transition"
-                >
-                  🎧 Listen on Audible
-                </AudibleLink>
-              )}
-              {(book.formats.includes("kindle") ||
-                book.formats.includes("print")) && (
+            <div className="flex flex-col sm:flex-row flex-wrap gap-4 justify-center md:justify-start pt-4">
+              {book.formats.includes("kindle") && (
                 <AmazonLink
                   href={amazonUrl(book)}
-                  className="flex-1 text-center px-6 py-3 border border-primary bg-white text-neutral-800 font-medium rounded-xl hover:bg-primary/70 hover:text-white transition"
+                  className="flex-1 text-center px-6 py-3 bg-primary text-white font-medium rounded-xl shadow hover:bg-primary/90 transition"
                 >
                   📖 Read on Kindle
                 </AmazonLink>
+              )}
+              {book.formats.includes("print") ? (
+                <AmazonLink
+                  href={amazonUrl(book)}
+                  className="flex-1 text-center px-6 py-3 border border-primary bg-white text-neutral-800 font-medium rounded-xl hover:bg-primary/10 transition"
+                >
+                  🖨️ Buy the Paperback
+                </AmazonLink>
+              ) : (
+                book.formats.includes("audible") && (
+                  <AudibleLink
+                    href={book.audibleUrl}
+                    className="flex-1 text-center px-6 py-3 border border-primary bg-white text-neutral-800 font-medium rounded-xl hover:bg-primary/10 transition"
+                  >
+                    🎧 Listen on Audible
+                  </AudibleLink>
+                )
               )}
             </div>
           </div>
