@@ -1,9 +1,11 @@
 export default function AudioSample({
   title,
   filePath,
+  narrator = "Graham Wolfe",
 }: {
   title: string;
   filePath?: string;
+  narrator?: string;
 }) {
   if (!filePath) return null;
 
@@ -13,7 +15,8 @@ export default function AudioSample({
         🎧 Listen to a Sample
       </h3>
       <p className="text-sm text-gray-600 mb-4">
-        Hear a short preview from <span className="font-medium">{title}</span>.
+        Hear a short preview from <span className="font-medium">{title}</span>,
+        <br/>narrated by {narrator}.
       </p>
       <audio
         controls

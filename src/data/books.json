@@ -15,8 +15,10 @@
     "coverDigital": "crash-course/digital/crypto-crash-course.jpg",
     "coverAudio": "crash-course/audio/crypto-crash-course.jpg",
     "relatedSlugs": [
+      "crypto-crash-course-bundle",
       "crypto-creations",
-      "web-3-wonders"
+      "web-3-wonders",
+      "crypto-confidence"
     ],
     "formats": [
       "kindle",
@@ -43,8 +45,10 @@
     "coverDigital": "crash-course/digital/crypto-creations.jpg",
     "coverAudio": "crash-course/audio/crypto-creations.jpg",
     "relatedSlugs": [
+      "crypto-crash-course-bundle",
       "crypto-crash-course",
-      "crypto-confidence"
+      "crypto-confidence",
+      "web-3-wonders"
     ],
     "formats": [
       "kindle",
@@ -71,6 +75,8 @@
     "coverDigital": "crash-course/digital/web-3-wonders.jpg",
     "coverAudio": "crash-course/audio/web-3-wonders.jpg",
     "relatedSlugs": [
+      "crypto-crash-course-bundle",
+      "crypto-crash-course",
       "crypto-creations",
       "crypto-confidence"
     ],
@@ -99,6 +105,8 @@
     "coverDigital": "crash-course/digital/crypto-confidence.jpg",
     "coverAudio": "crash-course/audio/crypto-confidence.jpg",
     "relatedSlugs": [
+      "crypto-crash-course-bundle",
+      "crypto-crash-course",
       "web-3-wonders",
       "cryptos-carbon-conundrum"
     ],
@@ -128,6 +136,8 @@
     "coverAudio": "crash-course/audio/cryptos-carbon-conundrum.jpg",
     "relatedSlugs": [
       "crypto-crash-course-bundle",
+      "crypto-crash-course",
+      "web-3-wonders",
       "crypto-confidence"
     ],
     "formats": [
@@ -156,7 +166,9 @@
     "coverAudio": "crash-course/digital/future-proof-your-tech-career.jpg",
     "relatedSlugs": [
       "crypto-crash-course-bundle",
-      "web-3-wonders"
+      "crypto-crash-course",
+      "web-3-wonders",
+      "crypto-confidence"
     ],
     "formats": [
       "kindle",
@@ -186,7 +198,9 @@
     "coverDigital": "crash-course/digital/crypto-crash-course-bundle.jpg",
     "coverAudio": "crash-course/audio/crypto-crash-course-bundle.jpg",
     "relatedSlugs": [
+      "crypto-crash-course",
       "crypto-creations",
+      "web-3-wonders",
       "crypto-confidence"
     ],
     "formats": [
@@ -214,10 +228,10 @@
     "coverDigital": "instant-crypto/digital/crypto-wallets-unlocked.jpg",
     "coverAudio": "instant-crypto/audio/crypto-wallets-unlocked.jpg",
     "relatedSlugs": [
-      "nft-know-how",
-      "gas-fee-hacks",
-      "unbreakable-crypto",
-      "instant-crypto-bundle"
+      "instant-crypto-bundle",
+      "staking-for-cash",
+      "yield-farming-fast-track",
+      "unbreakable-crypto"
     ],
     "formats": [
       "kindle",
@@ -244,10 +258,10 @@
     "coverDigital": "instant-crypto/digital/nft-know-how.jpg",
     "coverAudio": "instant-crypto/audio/nft-know-how.jpg",
     "relatedSlugs": [
-      "crypto-wallets-unlocked",
+      "instant-crypto-bundle",
       "staking-for-cash",
-      "dao-empowerment",
-      "instant-crypto-bundle"
+      "yield-farming-fast-track",
+      "crypto-market-mastery"
     ],
     "formats": [
       "kindle",
@@ -274,10 +288,10 @@
     "coverDigital": "instant-crypto/digital/yield-farming-fast-track.jpg",
     "coverAudio": "instant-crypto/audio/yield-farming-fast-track.jpg",
     "relatedSlugs": [
-      "staking-for-cash",
+      "instant-crypto-bundle",
       "profit-from-every-token",
-      "multi-chain-money",
-      "instant-crypto-bundle"
+      "crypto-wallets-unlocked",
+      "dao-empowerment"
     ],
     "formats": [
       "kindle",
@@ -304,10 +318,10 @@
     "coverDigital": "instant-crypto/digital/staking-for-cash.jpg",
     "coverAudio": "instant-crypto/audio/staking-for-cash.jpg",
     "relatedSlugs": [
+      "instant-crypto-bundle",
+      "unbreakable-crypto",
       "yield-farming-fast-track",
-      "profit-from-every-token",
-      "gas-fee-hacks",
-      "instant-crypto-bundle"
+      "gas-fee-hacks"
     ],
     "formats": [
       "kindle",
@@ -334,10 +348,10 @@
     "coverDigital": "instant-crypto/digital/gas-fee-hacks.jpg",
     "coverAudio": "instant-crypto/audio/gas-fee-hacks.jpg",
     "relatedSlugs": [
-      "crypto-wallets-unlocked",
-      "staking-for-cash",
-      "multi-chain-money",
-      "instant-crypto-bundle"
+      "instant-crypto-bundle",
+      "yield-farming-fast-track",
+      "nft-know-how",
+      "staking-for-cash"
     ],
     "formats": [
       "kindle",
@@ -364,10 +378,10 @@
     "coverDigital": "instant-crypto/digital/profit-from-every-token.jpg",
     "coverAudio": "instant-crypto/audio/profit-from-every-token.jpg",
     "relatedSlugs": [
-      "yield-farming-fast-track",
-      "multi-chain-money",
-      "staking-for-cash",
-      "instant-crypto-bundle"
+      "instant-crypto-bundle",
+      "gas-fee-hacks",
+      "crypto-market-mastery",
+      "nft-know-how"
     ],
     "formats": [
       "kindle",
@@ -394,10 +408,10 @@
     "coverDigital": "instant-crypto/digital/dao-empowerment.jpg",
     "coverAudio": "instant-crypto/audio/dao-empowerment.jpg",
     "relatedSlugs": [
-      "nft-know-how",
-      "multi-chain-money",
+      "instant-crypto-bundle",
       "crypto-wallets-unlocked",
-      "instant-crypto-bundle"
+      "gas-fee-hacks",
+      "profit-from-every-token"
     ],
     "formats": [
       "kindle",
@@ -424,10 +438,10 @@
     "coverDigital": "instant-crypto/digital/multi-chain-money.jpg",
     "coverAudio": "instant-crypto/audio/multi-chain-money.jpg",
     "relatedSlugs": [
-      "dao-empowerment",
-      "yield-farming-fast-track",
-      "profit-from-every-token",
-      "instant-crypto-bundle"
+      "instant-crypto-bundle",
+      "crypto-wallets-unlocked",
+      "unbreakable-crypto",
+      "crypto-market-mastery"
     ],
     "formats": [
       "kindle",
@@ -454,10 +468,10 @@
     "coverDigital": "instant-crypto/digital/unbreakable-crypto.jpg",
     "coverAudio": "instant-crypto/audio/unbreakable-crypto.jpg",
     "relatedSlugs": [
+      "instant-crypto-bundle",
       "crypto-wallets-unlocked",
-      "gas-fee-hacks",
-      "staking-for-cash",
-      "instant-crypto-bundle"
+      "nft-know-how",
+      "profit-from-every-token"
     ],
     "formats": [
       "kindle",
@@ -484,10 +498,10 @@
     "coverDigital": "instant-crypto/digital/crypto-market-mastery.jpg",
     "coverAudio": "instant-crypto/audio/crypto-market-mastery.jpg",
     "relatedSlugs": [
-      "profit-from-every-token",
-      "multi-chain-money",
-      "unbreakable-crypto",
-      "instant-crypto-bundle"
+      "instant-crypto-bundle",
+      "yield-farming-fast-track",
+      "nft-know-how",
+      "unbreakable-crypto"
     ],
     "formats": [
       "kindle",
@@ -514,10 +528,10 @@
     "coverDigital": "instant-crypto/digital/cbdcs-demystified.jpg",
     "coverAudio": "instant-crypto/digital/cbdcs-demystified.jpg",
     "relatedSlugs": [
+      "instant-crypto-bundle",
       "crypto-market-mastery",
       "profit-from-every-token",
-      "unbreakable-crypto",
-      "instant-crypto-bundle"
+      "unbreakable-crypto"
     ],
     "formats": [
       "kindle"
@@ -552,10 +566,10 @@
     "coverDigital": "instant-crypto/digital/instant-crypto-bundle.jpg",
     "coverAudio": "instant-crypto/audio/instant-crypto-bundle.jpg",
     "relatedSlugs": [
-      "crypto-wallets-unlocked",
-      "nft-know-how",
-      "staking-for-cash",
-      "dao-empowerment"
+      "instant-crypto-collection-11-20",
+      "gas-fee-hacks",
+      "multi-chain-money",
+      "unbreakable-crypto"
     ],
     "formats": [
       "kindle",
@@ -581,7 +595,12 @@
     ],
     "coverDigital": "instant-crypto/digital/bear-market-survival.jpg",
     "coverAudio": "instant-crypto/audio/bear-market-survival.jpg",
-    "relatedSlugs": [],
+    "relatedSlugs": [
+      "instant-crypto-collection-11-20",
+      "crypto-without-stress",
+      "crypto-for-busy-people",
+      "crypto-psychology-unlocked"
+    ],
     "formats": [
       "kindle",
       "audible"
@@ -606,7 +625,12 @@
     ],
     "coverDigital": "instant-crypto/digital/crypto-without-stress.jpg",
     "coverAudio": "instant-crypto/audio/crypto-without-stress.jpg",
-    "relatedSlugs": [],
+    "relatedSlugs": [
+      "instant-crypto-collection-11-20",
+      "crypto-portfolio-rules",
+      "crypto-psychology-unlocked",
+      "crypto-myths-exposed"
+    ],
     "formats": [
       "kindle",
       "audible"
@@ -631,7 +655,12 @@
     ],
     "coverDigital": "instant-crypto/digital/crypto-psychology-unlocked.jpg",
     "coverAudio": "instant-crypto/audio/crypto-psychology-unlocked.jpg",
-    "relatedSlugs": [],
+    "relatedSlugs": [
+      "instant-crypto-collection-11-20",
+      "crypto-myths-exposed",
+      "stablecoins-explained",
+      "crypto-portfolio-rules"
+    ],
     "formats": [
       "kindle",
       "audible"
@@ -656,7 +685,12 @@
     ],
     "coverDigital": "instant-crypto/digital/stablecoins-explained.jpg",
     "coverAudio": "instant-crypto/audio/stablecoins-explained.jpg",
-    "relatedSlugs": [],
+    "relatedSlugs": [
+      "instant-crypto-collection-11-20",
+      "bear-market-survival",
+      "crypto-myths-exposed",
+      "crypto-for-busy-people"
+    ],
     "formats": [
       "kindle",
       "audible"
@@ -681,7 +715,12 @@
     ],
     "coverDigital": "instant-crypto/digital/crypto-portfolio-rules.jpg",
     "coverAudio": "instant-crypto/audio/crypto-portfolio-rules.jpg",
-    "relatedSlugs": [],
+    "relatedSlugs": [
+      "instant-crypto-collection-11-20",
+      "crypto-myths-exposed",
+      "crypto-psychology-unlocked",
+      "crypto-without-stress"
+    ],
     "formats": [
       "kindle",
       "audible"
@@ -706,7 +745,12 @@
     ],
     "coverDigital": "instant-crypto/digital/crypto-income-simplified.jpg",
     "coverAudio": "instant-crypto/audio/crypto-income-simplified.jpg",
-    "relatedSlugs": [],
+    "relatedSlugs": [
+      "instant-crypto-collection-11-20",
+      "bear-market-survival",
+      "crypto-without-stress",
+      "crypto-portfolio-rules"
+    ],
     "formats": [
       "kindle",
       "audible"
@@ -731,7 +775,12 @@
     ],
     "coverDigital": "instant-crypto/digital/market-re-entry.jpg",
     "coverAudio": "instant-crypto/audio/market-re-entry.jpg",
-    "relatedSlugs": [],
+    "relatedSlugs": [
+      "instant-crypto-collection-11-20",
+      "crypto-myths-exposed",
+      "crypto-for-busy-people",
+      "long-term-crypto-thinking"
+    ],
     "formats": [
       "kindle",
       "audible"
@@ -756,7 +805,12 @@
     ],
     "coverDigital": "instant-crypto/digital/long-term-crypto-thinking.jpg",
     "coverAudio": "instant-crypto/audio/long-term-crypto-thinking.jpg",
-    "relatedSlugs": [],
+    "relatedSlugs": [
+      "instant-crypto-collection-11-20",
+      "crypto-for-busy-people",
+      "bear-market-survival",
+      "crypto-psychology-unlocked"
+    ],
     "formats": [
       "kindle",
       "audible"
@@ -781,7 +835,12 @@
     ],
     "coverDigital": "instant-crypto/digital/crypto-myths-exposed.jpg",
     "coverAudio": "instant-crypto/audio/crypto-myths-exposed.jpg",
-    "relatedSlugs": [],
+    "relatedSlugs": [
+      "instant-crypto-collection-11-20",
+      "crypto-portfolio-rules",
+      "crypto-without-stress",
+      "long-term-crypto-thinking"
+    ],
     "formats": [
       "kindle",
       "audible"
@@ -806,7 +865,12 @@
     ],
     "coverDigital": "instant-crypto/digital/crypto-for-busy-people.jpg",
     "coverAudio": "instant-crypto/audio/crypto-for-busy-people.jpg",
-    "relatedSlugs": [],
+    "relatedSlugs": [
+      "instant-crypto-collection-11-20",
+      "crypto-without-stress",
+      "crypto-portfolio-rules",
+      "crypto-income-simplified"
+    ],
     "formats": [
       "kindle",
       "audible"
@@ -842,7 +906,12 @@
     ],
     "coverDigital": "instant-crypto/digital/instant-crypto-collection-11-20.jpg",
     "coverAudio": "instant-crypto/audio/instant-crypto-collection-11-20.jpg",
-    "relatedSlugs": [],
+    "relatedSlugs": [
+      "instant-crypto-bundle",
+      "crypto-without-stress",
+      "crypto-myths-exposed",
+      "crypto-psychology-unlocked"
+    ],
     "formats": [
       "kindle",
       "audible"
