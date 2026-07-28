@@ -1,197 +1,386 @@
 [
   {
-    "title": "Placeholder Article 1",
-    "slug": "placeholder-article-1",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "What Is Cryptocurrency? A Beginner's Guide to How It Actually Works",
+    "slug": "what-is-cryptocurrency-beginners-guide",
+    "excerpt": "What is cryptocurrency and how does it actually work? A clear, jargon-free guide to blockchain, wallets, and your first safe steps into crypto.",
     "category": "Crypto Basics",
     "recommendedBook": "crypto-crash-course",
     "date": "2026-07-20",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "What Is Cryptocurrency?",
+        "text": "Cryptocurrency is digital money secured by cryptography and run on a decentralized network of computers instead of a bank. There's no central authority approving transactions — instead, thousands of independent computers (called nodes) work together to verify and record every transaction on a shared, public ledger known as a blockchain. Bitcoin, launched in 2009, was the first cryptocurrency to prove this model could work at scale. Today there are thousands of others, from Ethereum (which added smart contracts — self-executing code — to the mix) to stablecoins designed to hold a steady value. What they share is the same core idea: money that moves peer-to-peer, without a middleman, that no single company or government can freeze or reverse."
+      },
+      {
+        "heading": "How Does It Actually Work?",
+        "text": "Every crypto wallet has two keys: a public key, like an account number you can share, and a private key, like a password you never share. When you send crypto, your private key creates a digital signature proving the transaction is really yours — then the network races to confirm it. Most cryptocurrencies confirm transactions through one of two methods: Proof of Work, where computers compete to solve puzzles (how Bitcoin works), or Proof of Stake, where holders lock up coins to earn the right to validate (how Ethereum works today). Once enough of the network agrees, the transaction is bundled into a block, added permanently to the chain, and can't be quietly edited later."
+      },
+      {
+        "heading": "Getting Started Safely",
+        "text": "You don't need to understand every technical detail to get started — but a few habits will keep you out of trouble:",
+        "list": [
+          "Use a reputable exchange to buy your first coins, and enable two-factor authentication immediately.",
+          "Move meaningful amounts off the exchange into your own wallet — \"not your keys, not your coins\" is the golden rule.",
+          "Never share your private key or seed phrase with anyone, including people claiming to be \"support.\"",
+          "Start small. Learn how transactions, fees, and wallets behave before committing serious money."
+        ]
+      },
+      {
+        "text": "None of this is complicated once you've seen it laid out properly — it's just unfamiliar. That's really all \"crypto basics\" means: getting comfortable with a new kind of money before you ever need to make a decision about it. If you want the fuller picture — how wallets, exchanges, and the wider crypto landscape actually fit together — Your Crypto Crash Course walks through it step by step, in plain English, without the hype."
       }
     ]
   },
   {
-    "title": "Placeholder Article 2",
-    "slug": "placeholder-article-2",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "What Is Blockchain Technology? How It Works, Explained Simply",
+    "slug": "what-is-blockchain-technology-explained",
+    "excerpt": "Blockchain gets thrown around a lot — but what is it, really? Here's how the technology behind crypto actually works, in plain English.",
     "category": "Blockchain",
     "recommendedBook": "web-3-wonders",
     "date": "2026-07-17",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "What Is a Blockchain?",
+        "text": "A blockchain is a shared digital record that thousands of computers keep copies of at the same time, instead of one company or bank holding the only copy. When new information is added, every computer on the network sees the update almost instantly, and once it's written in, it can't quietly be changed or deleted — the whole network would notice. That's the entire idea in one sentence: a record-keeping system nobody controls alone, that everybody can check."
+      },
+      {
+        "heading": "How Blocks Actually Get Added",
+        "text": "New transactions get grouped together into a \"block.\" Before that block is accepted, the network's computers have to agree it's valid — no one can just add whatever they want. Once approved, the block gets cryptographically stitched to the one before it, forming a chain stretching back to the very first transaction ever recorded. That link is what makes tampering so hard: changing an old block would break every block that came after it, and the rest of the network would immediately reject it."
+      },
+      {
+        "heading": "Why It Matters Beyond Crypto",
+        "text": "Currency was just the first use case. Blockchain is now used for near-instant cross-border payments that skip slow intermediary banks, smart contracts that release payment automatically once conditions are met, and tamper-proof record-keeping in industries like healthcare and supply chains. Roughly 90% of large businesses globally are now exploring or actively using blockchain in some form."
+      },
+      {
+        "text": "This is also exactly what \"Web3\" is trying to build on top of: an internet where you actually own your data and digital assets, instead of a handful of platforms owning them for you. Web 3.0 Wonders digs into what that shift looks like in practice, and why it's a bigger deal than it sounds."
       }
     ]
   },
   {
-    "title": "Placeholder Article 3",
-    "slug": "placeholder-article-3",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "How to Read a Crypto Market Without Panicking: Trading Basics for Beginners",
+    "slug": "crypto-trading-basics-for-beginners",
+    "excerpt": "New to crypto trading? Learn the basics of reading the market, managing risk, and avoiding the mistakes that catch most beginners out.",
     "category": "Trading",
     "recommendedBook": "crypto-market-mastery",
     "date": "2026-07-14",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "Trading Isn't the Same as Investing",
+        "text": "Investing means buying an asset and holding it, betting on where it'll be in months or years. Trading means acting on shorter-term price movement — days, hours, sometimes minutes. Neither is \"better,\" but they need completely different mindsets, and most beginner mistakes come from mixing the two: panic-selling a long-term holding because of a short-term dip, or holding a short-term trade too long hoping it \"comes back.\""
+      },
+      {
+        "heading": "The Basics Worth Actually Understanding",
+        "text": "Crypto markets run 24/7, with no opening bell and no closing bell, which is part of why they're so much more volatile than stocks. Prices move on a mix of real news, pure speculation, and sentiment — sometimes all three in the same hour. Before placing a single trade, it's worth understanding order types (a market order buys instantly at the current price; a limit order only fills at a price you set) and knowing what timeframe you're actually trading on, since a coin can look completely different on a 5-minute chart versus a weekly one."
+      },
+      {
+        "heading": "Rules That Keep Beginners Out of Trouble",
+        "text": "A few habits separate people who last from people who blow up their account in month one:",
+        "list": [
+          "Only trade money you can genuinely afford to lose — not rent money, not emergency savings.",
+          "Set a stop-loss before you enter a trade, not after it's already going wrong.",
+          "Avoid leverage entirely until you've traded without it long enough to understand your own risk tolerance.",
+          "Don't chase a coin after it's already pumped — that's usually where beginners buy the top."
+        ]
+      },
+      {
+        "text": "Timing every trade perfectly is a myth even professionals don't manage. What actually separates good traders from lucky ones is data-driven decisions and consistent risk management — which is exactly what Crypto Market Mastery is built to teach."
       }
     ]
   },
   {
-    "title": "Placeholder Article 4",
-    "slug": "placeholder-article-4",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "Crypto Wallets Explained: Hot vs. Cold Storage and How to Keep Your Coins Safe",
+    "slug": "crypto-wallets-hot-vs-cold-storage-guide",
+    "excerpt": "Hot wallet or cold wallet? Here's what each actually means, when to use which, and the simple rule that keeps most crypto holders safe.",
     "category": "Wallets & Security",
     "recommendedBook": "crypto-wallets-unlocked",
     "date": "2026-07-11",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "What a Crypto Wallet Actually Does",
+        "text": "A wallet doesn't really \"store\" your coins — your coins live on the blockchain itself. What your wallet holds is the private key that proves those coins are yours and lets you move them. Lose the key, lose access. Someone else gets the key, they get your crypto. That single fact is why wallet security matters more than almost anything else in crypto."
+      },
+      {
+        "heading": "Hot Wallets vs. Cold Wallets",
+        "text": "A hot wallet stays connected to the internet — usually a browser extension or mobile app — which makes it fast and convenient for everyday use, swaps, and connecting to apps. A cold wallet keeps your keys offline entirely, typically on a dedicated hardware device, so a remote attacker can't sign a transaction without physically having it in their hands. Hot wallets are exposed to phishing and malware; cold wallets trade a bit of convenience for real protection against exactly that."
+      },
+      {
+        "heading": "A Simple Rule Beginners Can Actually Follow",
+        "text": "You don't need to overthink this — a practical split works for almost everyone:",
+        "list": [
+          "Keep 80–90% of your holdings in cold storage — treat it like savings, not a checking account.",
+          "Use a hot wallet only for what you need for active spending, trading, or app access.",
+          "Turn on two-factor authentication (an authenticator app, not SMS) on every hot wallet and exchange account.",
+          "Never type your seed phrase into a website, app, or message — no legitimate wallet or support team will ever ask for it."
+        ]
+      },
+      {
+        "text": "Most people don't lose crypto to hacking in the dramatic, movie sense — they lose it to a rushed click or a wallet that was never set up properly. Crypto Wallets Unlocked walks through exactly how to set one up the right way, the first time."
       }
     ]
   },
   {
-    "title": "Placeholder Article 5",
-    "slug": "placeholder-article-5",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "What Is DeFi? A Beginner's Guide to Decentralized Finance and Yield Farming",
+    "slug": "what-is-defi-yield-farming-beginners-guide",
+    "excerpt": "DeFi promises banking without the bank. Here's what decentralized finance actually is, how yield farming works, and the risks worth knowing first.",
     "category": "DeFi",
     "recommendedBook": "yield-farming-fast-track",
     "date": "2026-07-08",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "What Is DeFi?",
+        "text": "DeFi — short for decentralized finance — recreates familiar financial services like lending, borrowing, and trading using blockchain and smart contracts instead of banks and brokers. There's no branch to visit and no institution approving your application; the rules are written directly into code that anyone can inspect. It's grown into a genuinely large part of crypto, with well over $150 billion currently locked across hundreds of protocols."
+      },
+      {
+        "heading": "What Is Yield Farming?",
+        "text": "Yield farming is putting your crypto to work inside DeFi protocols to earn a return, rather than letting it sit idle. Typically that means depositing tokens into a liquidity pool or lending market, where they help other users trade or borrow — and in exchange, you earn a share of the fees, plus sometimes bonus reward tokens on top. Conservative strategies often land around 5–15% APY; a traditional savings account might pay a fraction of that."
+      },
+      {
+        "heading": "The Risk Beginners Often Miss",
+        "text": "Sky-high advertised yields (50%, 100%+) are usually a warning sign, not a bargain — they're often unsustainable or tied to a brand-new, unproven protocol. There's also a subtler risk called impermanent loss, where providing liquidity can actually leave you worse off than if you'd simply held the tokens outright. For a first attempt, established platforms and stablecoin pools are a far safer starting point than chasing the highest number on the list."
+      },
+      {
+        "text": "Once the mechanics click, yield farming stops feeling like a gamble and starts feeling like a genuinely useful tool. Yield Farming Fast-Track breaks down exactly how to get your crypto working for you, without wandering into the riskiest corners of DeFi first."
       }
     ]
   },
   {
-    "title": "Placeholder Article 6",
-    "slug": "placeholder-article-6",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "What Is an NFT? A Simple Guide to Non-Fungible Tokens",
+    "slug": "what-is-an-nft-simple-guide",
+    "excerpt": "NFTs aren't just profile pictures. Here's a plain-English breakdown of what a non-fungible token actually is and how ownership works on-chain.",
     "category": "NFTs",
     "recommendedBook": "nft-know-how",
     "date": "2026-07-05",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "What Does \"Non-Fungible\" Actually Mean?",
+        "text": "Something is \"fungible\" when any unit is interchangeable with another — one bitcoin is worth exactly the same as any other bitcoin. \"Non-fungible\" means the opposite: each token is unique and can't be swapped one-for-one with another. An NFT is essentially a digital certificate of ownership for one specific item — digital art, a collectible, an access pass, even a real-world asset — recorded permanently on a blockchain."
+      },
+      {
+        "heading": "How NFT Ownership Actually Works",
+        "text": "The NFT itself is a token that lives on the blockchain and points to whatever it represents, along with metadata describing it. When you buy one, what you're really buying is the token — the provable, on-chain record that you're the current owner. Because that record lives on a public blockchain rather than one company's database, ownership can be verified independently by anyone, and transferred without needing a middleman to approve it."
+      },
+      {
+        "heading": "What They're Actually Used For",
+        "text": "Digital art and collectibles got NFTs the initial attention, but the use cases have expanded well beyond that: event and community access passes, verifiable in-game items players genuinely own across a game's economy, and authentication certificates that help prove a physical luxury item is genuine rather than counterfeit."
+      },
+      {
+        "text": "Once ownership actually clicks, the rest of the space makes a lot more sense. NFT Know-How walks through how to buy, hold, and evaluate them without getting lost in the hype."
       }
     ]
   },
   {
-    "title": "Placeholder Article 7",
-    "slug": "placeholder-article-7",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "What Is a CBDC? Central Bank Digital Currencies Explained",
+    "slug": "what-is-a-cbdc-explained",
+    "excerpt": "Central bank digital currencies are spreading fast worldwide. Here's what a CBDC actually is, how it differs from crypto, and why it matters to you.",
     "category": "Regulation",
     "recommendedBook": "cbdcs-demystified",
     "date": "2026-07-02",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "What Is a CBDC?",
+        "text": "A central bank digital currency, or CBDC, is a digital form of a country's official money, issued and fully backed by that country's central bank — not a private company, and not a decentralized network. It holds a stable 1:1 value with the regular currency it represents, so it isn't a speculative asset the way crypto often is; it's simply the existing dollar, euro, or pound in digital form."
+      },
+      {
+        "heading": "How Is That Different From Bitcoin or Stablecoins?",
+        "text": "Cryptocurrencies like Bitcoin have no central issuer — no company or government controls the network or can freeze an account. A CBDC is the opposite by design: it's centralized, issued directly by a government, and fully within that government's control, including the ability to monitor or restrict how it's used. That trade-off — convenience and stability versus decentralization and privacy — is exactly why CBDCs generate so much debate."
+      },
+      {
+        "heading": "Why It's Moving So Fast",
+        "text": "This isn't a fringe experiment anymore. The large majority of the world's economies are now actively researching, piloting, or already running some form of CBDC, and a handful of countries have moved into live retail rollout. Approaches vary sharply by country — some are racing ahead, others have deliberately restricted or paused their own programs — so the details are genuinely worth following region by region rather than assuming one global standard is coming."
+      },
+      {
+        "text": "Understanding CBDCs isn't just abstract policy reading — it shapes how money itself might work in the years ahead, alongside crypto rather than instead of it. CBDCs Demystified breaks down what's actually happening globally, without the jargon."
       }
     ]
   },
   {
-    "title": "Placeholder Article 8",
-    "slug": "placeholder-article-8",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "Crypto Psychology: How to Stop Emotions From Wrecking Your Trades",
+    "slug": "crypto-trading-psychology-guide",
+    "excerpt": "FOMO, panic selling, revenge trading — crypto psychology trips up more people than bad analysis does. Here's how to build real emotional discipline.",
     "category": "Mindset",
     "recommendedBook": "crypto-psychology-unlocked",
     "date": "2026-06-29",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "Why Crypto Messes With Your Head More Than Other Markets",
+        "text": "Crypto markets never close. There's no bell to signal a break, no weekend to think clearly, and social media amplifying every move in real time. That combination of nonstop volatility and nonstop noise is exactly why emotional decisions do more damage here than almost anywhere else in investing — it's not that crypto traders are worse at math, it's that the environment is relentlessly designed to provoke a reaction."
+      },
+      {
+        "heading": "The Patterns Worth Recognizing in Yourself",
+        "text": "A few emotional traps show up again and again: FOMO buying near the top of a pump because everyone else seems to be winning, panic selling during a dip out of pure fear rather than any actual change in fundamentals, and revenge trading — trying to immediately win back a loss with a bigger, riskier bet. None of these come from bad analysis. They come from reacting instead of deciding."
+      },
+      {
+        "heading": "Building Discipline That Actually Holds Up",
+        "text": "Discipline isn't a personality trait — it's a set of habits you can build deliberately:",
+        "list": [
+          "Write your rules — entry, exit, position size — before you're emotionally invested in the outcome.",
+          "Keep a simple trading journal that tracks not just what you did, but how you felt when you did it.",
+          "Decide your exit point in advance, so a falling price doesn't become a live negotiation with yourself.",
+          "Step away after a big win or a big loss — both states lead to worse decisions than a calm one does."
+        ]
+      },
+      {
+        "text": "Crypto doesn't just test what you know — it tests how you handle pressure in real time. Crypto Psychology Unlocked goes deeper into the emotional side most guides skip entirely."
       }
     ]
   },
   {
-    "title": "Placeholder Article 9",
-    "slug": "placeholder-article-9",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "Bitcoin vs. Altcoins: What's the Difference, and Where Should Beginners Start?",
+    "slug": "bitcoin-vs-altcoins-beginners-guide",
+    "excerpt": "Bitcoin, Ethereum, and thousands of altcoins — what's actually different between them, and which one should a beginner actually learn first?",
     "category": "Crypto Basics",
     "recommendedBook": "crypto-crash-course",
     "date": "2026-06-26",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "What Makes Bitcoin Different",
+        "text": "Bitcoin was the first cryptocurrency, and it was deliberately built to be simple: a fixed, capped supply of 21 million coins, a single clear purpose as digital money and a store of value, and over a decade of the largest network and community behind it. It doesn't try to do everything — that restraint is the point, and it's a big part of why it's still the most widely trusted crypto asset by far."
+      },
+      {
+        "heading": "What Actually Counts as an \"Altcoin\"",
+        "text": "Every cryptocurrency that isn't Bitcoin gets grouped under \"altcoins\" — which covers an enormous range. Ethereum introduced smart contracts, turning the blockchain into a platform other applications could be built on. Others were designed specifically for faster transactions, lower fees, or particular use cases like DeFi or gaming. Altcoins generally trade Bitcoin's simplicity and track record for a specific bet on new technology or utility."
+      },
+      {
+        "heading": "Where Beginners Should Actually Start",
+        "text": "For almost everyone new to crypto, Bitcoin is still the sensible entry point. It's simpler to understand, has the longest history to learn from, and has by far the most educational material and community support available if something goes wrong. Once the fundamentals — wallets, exchanges, security, how transactions actually work — genuinely click with Bitcoin, branching out into altcoins becomes a far more informed decision instead of a guess."
+      },
+      {
+        "text": "That's exactly the order Your Crypto Crash Course is built around: fundamentals first, so the rest of crypto stops feeling like a foreign language."
       }
     ]
   },
   {
-    "title": "Placeholder Article 10",
-    "slug": "placeholder-article-10",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "What Can You Actually Build on a Blockchain? Beyond Just Currency",
+    "slug": "what-can-you-build-on-a-blockchain",
+    "excerpt": "Blockchain isn't just for money. Here's a look at what people are actually building on it — from self-executing contracts to real-world assets.",
     "category": "Blockchain",
     "recommendedBook": "crypto-creations",
     "date": "2026-06-23",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "Smart Contracts: Code That Runs Itself",
+        "text": "A smart contract is an agreement written directly into code, which executes automatically once its conditions are met — no lawyer, no bank, no manual approval step. Payment can release the instant a delivery is confirmed; a loan can be issued the moment collateral is deposited. It's the same logic as a contract, just enforced by code instead of a person deciding to honor it."
+      },
+      {
+        "heading": "Tokenizing Real-World Things",
+        "text": "Blockchain isn't limited to purely digital assets. Real estate is being fractionalized so investors can own a small share of a rental property rather than the whole thing. Physical deeds and commodities are being tokenized to make ownership easier to transfer and verify. Even authenticity itself is being put on-chain — a certificate proving a luxury item is genuine, tied permanently to that specific product."
+      },
+      {
+        "heading": "Decentralized Apps (dApps)",
+        "text": "A dApp works like a normal app on the surface, but runs on smart contracts instead of a company's private servers — a lending platform, a marketplace, or a game where no single business can unilaterally shut it down, change the rules, or take a cut without the community knowing. It's the practical, working example of what \"decentralized\" actually means day to day."
+      },
+      {
+        "text": "Creativity meeting code is really the whole story of where blockchain is heading next. Crypto Creations goes deeper into what's actually being built — and what's realistically still years away."
       }
     ]
   },
   {
-    "title": "Placeholder Article 11",
-    "slug": "placeholder-article-11",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "Token Value 101: What Actually Makes a Cryptocurrency Worth Something",
+    "slug": "what-makes-a-crypto-token-valuable",
+    "excerpt": "Why is one token worth cents and another worth thousands? Here's a beginner's guide to tokenomics — supply, utility, and what actually drives value.",
     "category": "Trading",
     "recommendedBook": "profit-from-every-token",
     "date": "2026-06-20",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "It's Not Just Supply and Demand",
+        "text": "That's true as far as it goes, but it doesn't explain why demand exists in the first place. The real answer sits in a token's \"tokenomics\" — the design decisions behind its supply, distribution, and actual utility. Two tokens can have identical prices today and completely different futures, because the mechanics underneath them are nothing alike."
+      },
+      {
+        "heading": "Three Things Worth Actually Checking",
+        "text": "Before assuming a token's price reflects its worth, it's worth looking at:",
+        "list": [
+          "Supply model — is it capped like Bitcoin's 21 million, or can new tokens keep being created indefinitely, diluting existing holders?",
+          "Real utility — does holding or using the token actually let you do something (pay fees, vote on decisions, access a service), or is its only function being traded?",
+          "Distribution — is ownership spread across many holders, or concentrated in a handful of wallets that could move the price by themselves?"
+        ]
+      },
+      {
+        "heading": "The Red Flag Beginners Miss",
+        "text": "A compelling story and a rising chart aren't the same thing as value. Plenty of tokens have pumped hard on hype alone before collapsing once it became clear there was no real utility or sustainable demand behind the price. Checking the fundamentals first is what separates an informed bet from a guess dressed up as one."
+      },
+      {
+        "text": "Understanding what actually makes a token valuable is the difference between chasing green candles and making genuinely informed decisions. Profit From Every Token walks through exactly how to evaluate one before you buy."
       }
     ]
   },
   {
-    "title": "Placeholder Article 12",
-    "slug": "placeholder-article-12",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "How to Avoid the Most Common Crypto Scams",
+    "slug": "how-to-avoid-common-crypto-scams",
+    "excerpt": "Fake investment platforms, phishing sites, deepfake endorsements — here are the crypto scams costing people the most, and how to spot them early.",
     "category": "Wallets & Security",
     "recommendedBook": "unbreakable-crypto",
     "date": "2026-06-17",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "The Scam Costing People the Most Money",
+        "text": "Investment fraud — often called \"pig butchering\" — causes more losses than any other crypto scam by a wide margin. It starts slow: a scammer builds trust over days or weeks through messages, dating apps, or social media, then steers the target toward a convincing fake investment platform. The platform shows fake gains to encourage bigger deposits, then blocks withdrawals entirely, sometimes demanding fake \"taxes\" or \"fees\" to release funds that were never real in the first place."
+      },
+      {
+        "heading": "Phishing and Fake Endorsements",
+        "text": "Phishing remains one of the most common attacks: fake websites and apps built to closely mimic real exchanges or wallets, designed purely to harvest passwords, seed phrases, and private keys the moment someone types them in. A newer variant uses AI-generated deepfake videos of well-known public figures apparently endorsing a fraudulent platform — footage convincing enough that plenty of experienced users have still been caught out by it."
+      },
+      {
+        "heading": "How to Actually Protect Yourself",
+        "text": "A few habits close off almost every common attack:",
+        "list": [
+          "Treat any guaranteed return or urgent \"invest now\" pressure as an automatic red flag — legitimate projects don't work that way.",
+          "Never enter your seed phrase or private key anywhere except your own wallet software.",
+          "Use an authenticator app for two-factor authentication instead of SMS wherever it's supported.",
+          "Double-check every wallet approval request before signing — a rushed click is how most thefts actually happen."
+        ]
+      },
+      {
+        "text": "Most crypto losses aren't dramatic hacks — they're a moment of trust in the wrong place. Unbreakable Crypto covers exactly how to lock that down properly, once, so it stops being something to worry about."
       }
     ]
   },
   {
-    "title": "Placeholder Article 13",
-    "slug": "placeholder-article-13",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "What Is Crypto Staking? How to Earn Passive Rewards on Your Holdings",
+    "slug": "what-is-crypto-staking-passive-income",
+    "excerpt": "Staking lets you earn rewards just for holding certain cryptocurrencies. Here's how it actually works, realistic returns, and the risks to know first.",
     "category": "DeFi",
     "recommendedBook": "staking-for-cash",
     "date": "2026-06-14",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "What Is Staking?",
+        "text": "Many blockchains, including Ethereum, run on a system called Proof of Stake, where the network needs people to lock up coins to help validate transactions and keep things secure. In exchange for committing your coins to that job, the network pays you rewards — typically more of the same cryptocurrency. It's the crypto equivalent of putting money to work instead of leaving it sitting idle in a wallet doing nothing."
+      },
+      {
+        "heading": "How Much Can You Actually Earn?",
+        "text": "Returns vary a lot by network and how the staking is structured, but roughly 3–18% APY is a realistic range for established coins — meaningfully higher than a typical savings account, but nowhere near the inflated numbers some DeFi platforms advertise elsewhere. It works similarly to earning interest: you don't have to actively do anything beyond holding the right asset in the right place."
+      },
+      {
+        "heading": "What You're Actually Risking",
+        "text": "Staked coins are often locked up for a fixed period, meaning you can't sell or move them instantly if the market turns against you. If the validator handling your stake misbehaves or performs poorly, you can face a \"slashing\" penalty that reduces your balance. And staking rewards don't protect you from the underlying asset's price falling — earning 5% in rewards means little if the coin itself drops 30% in the same period."
+      },
+      {
+        "text": "Staking is one of the more genuinely straightforward ways to earn passive rewards in crypto — as long as you go in understanding the trade-offs. Staking for Cash covers exactly how to do it properly."
       }
     ]
   },
   {
-    "title": "Placeholder Article 14",
-    "slug": "placeholder-article-14",
-    "excerpt": "Placeholder excerpt — TODO real copy.",
+    "title": "NFT Utility in 2026: What They're Actually Used for Beyond Art",
+    "slug": "nft-utility-beyond-art-2026",
+    "excerpt": "NFTs have moved past profile pictures. Here's how they're actually being used in 2026 — from real-world asset ownership to gaming and access passes.",
     "category": "NFTs",
     "recommendedBook": "nft-know-how",
     "date": "2026-06-11",
     "content": [
       {
-        "heading": "Placeholder heading",
-        "text": "Placeholder body copy — TODO real content."
+        "heading": "The Shift From Speculation to Utility",
+        "text": "The NFT market has changed shape a lot since the profile-picture boom that first put it on the map. Prices driven purely by hype proved fragile — plenty of collections that looked unstoppable in the moment quietly lost most of their value once the speculation cooled. What's held up since is value tied to what a token actually lets you do, not just how it looks in a gallery. That's the real shift: NFTs behaving like functional tools rather than pure collectibles."
+      },
+      {
+        "heading": "Real-World Asset Ownership",
+        "text": "One of the biggest growth areas is tokenizing physical assets. Property deeds are being tokenized so investors can buy fractional shares of rental real estate and receive proportional income without buying an entire building outright. Physical commodities are following a similar path — using an NFT as a verifiable, transferable record of ownership over something that exists entirely outside the blockchain, with the transfer itself happening on-chain instead of through paperwork."
+      },
+      {
+        "heading": "Access, Authentication, and Gaming",
+        "text": "NFTs are also functioning as digital keys rather than static images. They grant access to exclusive communities or events, authenticate luxury goods to combat counterfeiting with a certificate tied permanently to one specific item, and represent in-game items players genuinely own and can trade or carry between experiences — rather than assets locked inside a single company's game and worthless the moment that game shuts down."
+      },
+      {
+        "text": "Once you understand what actually makes a token \"yours\" — covered in NFT Know-How — this is where that ownership is being put to use in practice, well beyond the art it started with."
       }
     ]
   }

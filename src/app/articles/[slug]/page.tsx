@@ -8,7 +8,7 @@ const articles = articlesData as Article[];
 
 import { generatePageMetadata, buildArticleJsonLd, buildBreadcrumbJsonLd } from "@/utils/metadata";
 import { formatArticleDate } from "@/utils/articles";
-import { categoryColors } from "@/utils/categoryColors";
+import { categoryColors, categoryHeaderColors } from "@/utils/categoryColors";
 import { categoryToSlug } from "@/utils/categorySlug";
 import { getBookBySlug } from "@/utils/catalog";
 import { getPreviousNextArticles } from "@/utils/articleRelations";
@@ -65,6 +65,8 @@ export default async function ArticlePage({
   ]);
 
   const categoryColor = categoryColors[article.category] || categoryColors.default;
+  const categoryHeaderColor =
+    categoryHeaderColors[article.category] || categoryHeaderColors.default;
   const recommendedBook = article.recommendedBook
     ? getBookBySlug(article.recommendedBook)
     : undefined;
@@ -72,7 +74,7 @@ export default async function ArticlePage({
 
   return (
     <>
-      <section className="bg-primary/10 py-16 px-6 text-center border-b border-primary/20">
+      <section className={`py-16 px-6 text-center border-b ${categoryHeaderColor}`}>
         <div className="max-w-3xl mx-auto space-y-4">
          
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900">
@@ -93,7 +95,7 @@ export default async function ArticlePage({
         </div>
       </section>
 
-      <Breadcrumbs />
+      <Breadcrumbs lastLabel={article.title} />
 
       <main className="max-w-5xl mx-auto px-6 py-16">
         <JsonLd data={[jsonLd, breadcrumbJsonLd]} />

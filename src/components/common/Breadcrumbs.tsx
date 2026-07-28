@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { ChevronRight } from "lucide-react";
 
-export default function Breadcrumbs() {
+export default function Breadcrumbs({ lastLabel }: { lastLabel?: string }) {
   const pathname = usePathname();
 
   const segments = pathname.split("/").filter(Boolean);
@@ -12,13 +12,15 @@ export default function Breadcrumbs() {
   const crumbs = segments.map((segment, i) => {
     const href = "/" + segments.slice(0, i + 1).join("/");
     const isLast = i === segments.length - 1;
-    const label = segment.replace(/-/g, " ");
+    const label = isLast && lastLabel ? lastLabel : segment.replace(/-/g, " ");
 
     return (
       <div key={href} className="flex items-center">
         <Link
           href={href}
           className={`text-sm font-medium ${
+            isLast && lastLabel ? "normal-case" : ""
+          } ${
             isLast
               ? "text-gray-900 pointer-events-none"
               : "text-primary hover:text-primary"
